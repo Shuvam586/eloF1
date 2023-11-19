@@ -1,0 +1,3922 @@
+{
+    "Nino Farina": {
+        "rating": 1109.952689768073,
+        "races": 37,
+        "avgFinish": 0.7053566058899667
+    },
+    "Luigi Fagioli": {
+        "rating": 1115.9231221545838,
+        "races": 10,
+        "avgFinish": 0.7991509850434335
+    },
+    "Reg  Parnell": {
+        "rating": 1024.6879967274426,
+        "races": 7,
+        "avgFinish": 0.624282265770695
+    },
+    "Yves Giraud-Cabantous": {
+        "rating": 1034.0659328112677,
+        "races": 14,
+        "avgFinish": 0.4506419001082553
+    },
+    "Louis  Rosier": {
+        "rating": 807.4605250367415,
+        "races": 40,
+        "avgFinish": 0.4662854713283314
+    },
+    "Bob  Gerard": {
+        "rating": 1042.3155236207756,
+        "races": 9,
+        "avgFinish": 0.6182656974562009
+    },
+    "Cuth  Harrison": {
+        "rating": 969.2464857796665,
+        "races": 3,
+        "avgFinish": 0.27582543314808755
+    },
+    "Philippe  Etancelin": {
+        "rating": 1015.0217939852153,
+        "races": 13,
+        "avgFinish": 0.35511824130025144
+    },
+    "David  Hampshire": {
+        "rating": 1004.9999999999999,
+        "races": 2,
+        "avgFinish": 0.35108695652173916
+    },
+    "Joe Fry": {
+        "rating": 1060.8695652173913,
+        "races": 1,
+        "avgFinish": 0.6086956521739131
+    },
+    "Brian Shawe-Taylor": {
+        "rating": 1065.0,
+        "races": 2,
+        "avgFinish": 0.6293478260869565
+    },
+    "Johnny Claes": {
+        "rating": 847.1054001537328,
+        "races": 24,
+        "avgFinish": 0.31355734157447634
+    },
+    "Juan Manuel Fangio": {
+        "rating": 1625.5347321486304,
+        "races": 63,
+        "avgFinish": 0.7085629050989039
+    },
+    "Joe Kelly": {
+        "rating": 1005.0,
+        "races": 2,
+        "avgFinish": 0.04673913043478261
+    },
+    "Prince Bira": {
+        "rating": 1108.341229521873,
+        "races": 19,
+        "avgFinish": 0.3952011739923659
+    },
+    "David  Murray": {
+        "rating": 1003.5311894743871,
+        "races": 4,
+        "avgFinish": 0.04036265277499499
+    },
+    "Geoff Crossley": {
+        "rating": 1042.857142857143,
+        "races": 2,
+        "avgFinish": 0.2360248447204969
+    },
+    "Toulo de Graffenried": {
+        "rating": 1162.60554690417,
+        "races": 23,
+        "avgFinish": 0.4089907542621042
+    },
+    "Louis  Chiron": {
+        "rating": 1071.457307075933,
+        "races": 16,
+        "avgFinish": 0.3821293523666282
+    },
+    "Eugene  Martin": {
+        "rating": 1005.5555555555555,
+        "races": 2,
+        "avgFinish": 0.049516908212560384
+    },
+    "Peter  Walker ": {
+        "rating": 1015.91384863124,
+        "races": 4,
+        "avgFinish": 0.21075382447665053
+    },
+    "Tony Rolt": {
+        "rating": 1003.3155049459397,
+        "races": 3,
+        "avgFinish": 0.03874319454029599
+    },
+    "Leslie  Johnson": {
+        "rating": 1004.3478260869565,
+        "races": 1,
+        "avgFinish": 0.043478260869565216
+    },
+    "Alberto Ascari": {
+        "rating": 812.7305337834787,
+        "races": 38,
+        "avgFinish": 0.5896326173138334
+    },
+    "Raymond  Sommer": {
+        "rating": 918.6065859092173,
+        "races": 5,
+        "avgFinish": 0.21096073517126152
+    },
+    "Luigi  Villoresi": {
+        "rating": 1009.5055277327625,
+        "races": 34,
+        "avgFinish": 0.494940130648378
+    },
+    "Jose Froilan Gonzalez": {
+        "rating": 1178.883327789367,
+        "races": 31,
+        "avgFinish": 0.6021948824351678
+    },
+    "Robert  Manzon": {
+        "rating": 998.9416714188629,
+        "races": 29,
+        "avgFinish": 0.3050068302689735
+    },
+    "Harry Schell": {
+        "rating": 1470.1068914511402,
+        "races": 65,
+        "avgFinish": 0.3710444801998276
+    },
+    "Maurice  Trintignant": {
+        "rating": 1672.70042760647,
+        "races": 86,
+        "avgFinish": 0.41150693686427664
+    },
+    "Franco  Rol": {
+        "rating": 1045.9649122807018,
+        "races": 5,
+        "avgFinish": 0.15981203007518796
+    },
+    "Johnnie  Parsons": {
+        "rating": 1011.3029289730079,
+        "races": 10,
+        "avgFinish": 0.6414125340658509
+    },
+    "Bill Holland": {
+        "rating": 1070.2127659574467,
+        "races": 2,
+        "avgFinish": 0.8371749408983451
+    },
+    "Mauri  Rose": {
+        "rating": 1061.764705882353,
+        "races": 2,
+        "avgFinish": 0.7810457516339869
+    },
+    "Cecil  Green": {
+        "rating": 1038.235294117647,
+        "races": 2,
+        "avgFinish": 0.6495098039215685
+    },
+    "Joie  Chitwood": {
+        "rating": 1088.888888888889,
+        "races": 1,
+        "avgFinish": 0.8888888888888888
+    },
+    "Tony  Bettenhausen": {
+        "rating": 1073.7456742428392,
+        "races": 13,
+        "avgFinish": 0.6361920654786738
+    },
+    "Lee Wallard": {
+        "rating": 1100.0,
+        "races": 2,
+        "avgFinish": 0.9305555555555556
+    },
+    "Walt  Faulkner": {
+        "rating": 1080.8739595128832,
+        "races": 5,
+        "avgFinish": 0.7533714762500744
+    },
+    "George Connor": {
+        "rating": 1045.8630421865716,
+        "races": 3,
+        "avgFinish": 0.5801643889879183
+    },
+    "Paul Russo": {
+        "rating": 1022.1720609584905,
+        "races": 9,
+        "avgFinish": 0.6953115797504617
+    },
+    "Pat Flaherty": {
+        "rating": 1065.4182324767432,
+        "races": 6,
+        "avgFinish": 0.6682808326425347
+    },
+    "Myron Fohr": {
+        "rating": 1072.2222222222222,
+        "races": 1,
+        "avgFinish": 0.7222222222222222
+    },
+    "Duane Carter": {
+        "rating": 1073.869745315563,
+        "races": 10,
+        "avgFinish": 0.7755781397020446
+    },
+    "Mack Hellings": {
+        "rating": 1011.764705882353,
+        "races": 2,
+        "avgFinish": 0.39215686274509803
+    },
+    "Jack McGrath": {
+        "rating": 1062.4250892921107,
+        "races": 6,
+        "avgFinish": 0.7402132204697911
+    },
+    "Troy Ruttman": {
+        "rating": 1000.3055343349461,
+        "races": 8,
+        "avgFinish": 0.5166518122400475
+    },
+    "Gene Hartley": {
+        "rating": 1110.2582916145182,
+        "races": 9,
+        "avgFinish": 0.5951840052590992
+    },
+    "Jimmy Davies": {
+        "rating": 1122.037451516175,
+        "races": 6,
+        "avgFinish": 0.7230790231416014
+    },
+    "Johnny McDowell": {
+        "rating": 1017.4168152109329,
+        "races": 3,
+        "avgFinish": 0.3366508219449396
+    },
+    "Walt Brown": {
+        "rating": 1026.4705882352941,
+        "races": 2,
+        "avgFinish": 0.38235294117647056
+    },
+    "Spider Webb": {
+        "rating": 1055.116233254531,
+        "races": 4,
+        "avgFinish": 0.4814017837954008
+    },
+    "Jerry  Hoyt": {
+        "rating": 1038.977669296818,
+        "races": 5,
+        "avgFinish": 0.5074796598200854
+    },
+    "Walt Ader": {
+        "rating": 1041.6666666666667,
+        "races": 1,
+        "avgFinish": 0.4166666666666667
+    },
+    "Jackie Holmes": {
+        "rating": 1061.7021276595744,
+        "races": 2,
+        "avgFinish": 0.5029550827423168
+    },
+    "Jim Rathmann": {
+        "rating": 1166.533691514561,
+        "races": 12,
+        "avgFinish": 0.746403520574359
+    },
+    "Henry Banks": {
+        "rating": 1071.4349376114083,
+        "races": 3,
+        "avgFinish": 0.5469399881164587
+    },
+    "Fred Agabashian": {
+        "rating": 1105.2514266506084,
+        "races": 9,
+        "avgFinish": 0.4805022331305185
+    },
+    "Bill Schindler": {
+        "rating": 1077.6812240047534,
+        "races": 3,
+        "avgFinish": 0.5195583283818578
+    },
+    "Bayliss Levrett": {
+        "rating": 1027.7777777777778,
+        "races": 1,
+        "avgFinish": 0.2777777777777778
+    },
+    "Bill Cantrell": {
+        "rating": 1027.7777777777778,
+        "races": 1,
+        "avgFinish": 0.2777777777777778
+    },
+    "Jimmy Jackson": {
+        "rating": 1074.5454545454545,
+        "races": 2,
+        "avgFinish": 0.48383838383838385
+    },
+    "Sam Hanks": {
+        "rating": 1196.0304403837617,
+        "races": 9,
+        "avgFinish": 0.7440872860355547
+    },
+    "Dick Rathmann": {
+        "rating": 1027.3482372747078,
+        "races": 5,
+        "avgFinish": 0.34970291146761734
+    },
+    "Duke Dinsmore": {
+        "rating": 1094.4641449960598,
+        "races": 4,
+        "avgFinish": 0.4112258378528716
+    },
+    "Felice  Bonetto": {
+        "rating": 1002.9239100274932,
+        "races": 16,
+        "avgFinish": 0.4976501449990913
+    },
+    "Nello  Pagani": {
+        "rating": 1066.6666666666667,
+        "races": 1,
+        "avgFinish": 0.6666666666666666
+    },
+    "Toni  Branca": {
+        "rating": 1000.180375180375,
+        "races": 3,
+        "avgFinish": 0.28234728234728235
+    },
+    "Pierre  Levegh": {
+        "rating": 1007.0794205794207,
+        "races": 6,
+        "avgFinish": 0.30044400044400044
+    },
+    "Eugene  Chaboud": {
+        "rating": 1129.1758241758241,
+        "races": 4,
+        "avgFinish": 0.5832417582417583
+    },
+    "Peter  Whitehead": {
+        "rating": 901.7427360359391,
+        "races": 11,
+        "avgFinish": 0.3598675579064142
+    },
+    "Charles  Pozzi ": {
+        "rating": 1075.0,
+        "races": 1,
+        "avgFinish": 0.75
+    },
+    "Dorino  Serafini": {
+        "rating": 1096.4285714285713,
+        "races": 1,
+        "avgFinish": 0.9642857142857143
+    },
+    "Guy  Mairesse": {
+        "rating": 1118.7576312576311,
+        "races": 4,
+        "avgFinish": 0.45032051282051283
+    },
+    "Piero  Taruffi": {
+        "rating": 1185.7894337897224,
+        "races": 18,
+        "avgFinish": 0.5943012260967035
+    },
+    "Clemente  Biondetti": {
+        "rating": 1003.5714285714286,
+        "races": 1,
+        "avgFinish": 0.03571428571428571
+    },
+    "Henri Louveau": {
+        "rating": 1004.7619047619047,
+        "races": 2,
+        "avgFinish": 0.041666666666666664
+    },
+    "Franco  Comotti": {
+        "rating": 1050.0,
+        "races": 2,
+        "avgFinish": 0.26785714285714285
+    },
+    "Consalvo  Sanesi": {
+        "rating": 1136.06684981685,
+        "races": 6,
+        "avgFinish": 0.5045787545787546
+    },
+    "Paul  Pietsch": {
+        "rating": 1003.8203463203463,
+        "races": 3,
+        "avgFinish": 0.03816738816738816
+    },
+    "Stirling Moss": {
+        "rating": 1521.3641119703566,
+        "races": 75,
+        "avgFinish": 0.47829296189169396
+    },
+    "Rudi  Fischer ": {
+        "rating": 1035.7183587022296,
+        "races": 7,
+        "avgFinish": 0.6263485746204641
+    },
+    "George  Abecassis ": {
+        "rating": 1004.5454545454546,
+        "races": 2,
+        "avgFinish": 0.046536796536796536
+    },
+    "Peter Hirt": {
+        "rating": 1018.4727458921008,
+        "races": 5,
+        "avgFinish": 0.279611786063399
+    },
+    "Mike Nazaruk": {
+        "rating": 1072.921265217886,
+        "races": 3,
+        "avgFinish": 0.8241096825577426
+    },
+    "Manny Ayulo": {
+        "rating": 1056.4665427744274,
+        "races": 4,
+        "avgFinish": 0.7229794819281677
+    },
+    "Andy Linden": {
+        "rating": 1065.3432382409228,
+        "races": 11,
+        "avgFinish": 0.5826221679105966
+    },
+    "Bobby Ball": {
+        "rating": 1006.0606060606061,
+        "races": 2,
+        "avgFinish": 0.47147950089126556
+    },
+    "Carl Forberg": {
+        "rating": 1082.3529411764705,
+        "races": 1,
+        "avgFinish": 0.8235294117647058
+    },
+    "Duke Nalon": {
+        "rating": 1055.59506200933,
+        "races": 3,
+        "avgFinish": 0.5984184776425078
+    },
+    "Gene Force": {
+        "rating": 1018.1818181818181,
+        "races": 2,
+        "avgFinish": 0.44385026737967914
+    },
+    "Carl Scarborough": {
+        "rating": 1076.595744680851,
+        "races": 2,
+        "avgFinish": 0.6329787234042553
+    },
+    "Bill  Mackey": {
+        "rating": 1047.0588235294117,
+        "races": 1,
+        "avgFinish": 0.47058823529411764
+    },
+    "Chuck  Stevenson": {
+        "rating": 1088.5954981605796,
+        "races": 7,
+        "avgFinish": 0.5811057111432582
+    },
+    "Chet  Miller": {
+        "rating": 1012.1212121212122,
+        "races": 2,
+        "avgFinish": 0.20766488413547238
+    },
+    "Rodger Ward": {
+        "rating": 1090.6527201682304,
+        "races": 12,
+        "avgFinish": 0.4590562939123639
+    },
+    "Cliff Griffith": {
+        "rating": 1101.1140819964348,
+        "races": 3,
+        "avgFinish": 0.5662507427213309
+    },
+    "Bill  Vukovich ": {
+        "rating": 1124.6846617434853,
+        "races": 5,
+        "avgFinish": 0.6011815635345048
+    },
+    "Joe James": {
+        "rating": 1063.6363636363635,
+        "races": 2,
+        "avgFinish": 0.34759358288770054
+    },
+    "Andre Pilette": {
+        "rating": 992.7482367947177,
+        "races": 9,
+        "avgFinish": 0.5158771058280862
+    },
+    "Aldo  Gordini ": {
+        "rating": 1003.8461538461538,
+        "races": 2,
+        "avgFinish": 0.038461538461538464
+    },
+    "Andre  Simon": {
+        "rating": 1131.1797685327285,
+        "races": 12,
+        "avgFinish": 0.2597046029301941
+    },
+    "Onofre Marimon": {
+        "rating": 1041.1843144317345,
+        "races": 12,
+        "avgFinish": 0.2430979474527862
+    },
+    "Duncan  Hamilton ": {
+        "rating": 1007.1025161878304,
+        "races": 5,
+        "avgFinish": 0.24952748440014996
+    },
+    "Philip  Fotheringham-Parker ": {
+        "rating": 1005.0,
+        "races": 1,
+        "avgFinish": 0.05
+    },
+    "John James": {
+        "rating": 1005.0,
+        "races": 1,
+        "avgFinish": 0.05
+    },
+    "Jacques Swaters": {
+        "rating": 973.7270923520922,
+        "races": 7,
+        "avgFinish": 0.31313388991960417
+    },
+    "Chico Landi": {
+        "rating": 1123.3280415114032,
+        "races": 7,
+        "avgFinish": 0.433944622763444
+    },
+    "Paco  Godia": {
+        "rating": 909.4580023680973,
+        "races": 13,
+        "avgFinish": 0.438057556478609
+    },
+    "Georges Grignard": {
+        "rating": 1005.2631578947369,
+        "races": 1,
+        "avgFinish": 0.05263157894736842
+    },
+    "Jean Behra": {
+        "rating": 927.8984827954725,
+        "races": 59,
+        "avgFinish": 0.37817253140317414
+    },
+    "Ken  Wharton": {
+        "rating": 1045.4192248526094,
+        "races": 15,
+        "avgFinish": 0.41198739197564893
+    },
+    "Alan Brown": {
+        "rating": 926.2175402907988,
+        "races": 8,
+        "avgFinish": 0.44602769015719673
+    },
+    "Eric  Brandon": {
+        "rating": 977.587365591398,
+        "races": 5,
+        "avgFinish": 0.4473057184750733
+    },
+    "Lance Macklin": {
+        "rating": 966.9310813009704,
+        "races": 13,
+        "avgFinish": 0.26512650023685674
+    },
+    "Peter Collins": {
+        "rating": 1327.855396471063,
+        "races": 39,
+        "avgFinish": 0.4018869136810396
+    },
+    "Toni Ulmen": {
+        "rating": 1076.6666666666665,
+        "races": 2,
+        "avgFinish": 0.40606060606060607
+    },
+    "Hans Von Stuck": {
+        "rating": 1057.1806777451939,
+        "races": 3,
+        "avgFinish": 0.2179591615075486
+    },
+    "Max de Terra": {
+        "rating": 1068.1818181818182,
+        "races": 2,
+        "avgFinish": 0.3636363636363636
+    },
+    "Art Cross": {
+        "rating": 1051.9109023364344,
+        "races": 4,
+        "avgFinish": 0.8046375610205397
+    },
+    "Jimmy Bryan": {
+        "rating": 976.5216228335307,
+        "races": 9,
+        "avgFinish": 0.6434883431128738
+    },
+    "Jimmy Reece": {
+        "rating": 1042.4614209320089,
+        "races": 6,
+        "avgFinish": 0.6185043714455479
+    },
+    "Jim Rigsby": {
+        "rating": 1066.6666666666667,
+        "races": 1,
+        "avgFinish": 0.6666666666666666
+    },
+    "George Fonder": {
+        "rating": 1050.3030303030303,
+        "races": 3,
+        "avgFinish": 0.5676767676767677
+    },
+    "Eddie Johnson": {
+        "rating": 1083.9719477733065,
+        "races": 9,
+        "avgFinish": 0.6608912896772723
+    },
+    "Bob Sweikert": {
+        "rating": 1160.8851341955224,
+        "races": 5,
+        "avgFinish": 0.6909492926764517
+    },
+    "Bob Scott": {
+        "rating": 1100.455620030088,
+        "races": 5,
+        "avgFinish": 0.5067440361057383
+    },
+    "Mike Hawthorn": {
+        "rating": 1083.1560124713626,
+        "races": 49,
+        "avgFinish": 0.646015804863936
+    },
+    "Paul Frere": {
+        "rating": 1059.4062688640165,
+        "races": 11,
+        "avgFinish": 0.3728910062616117
+    },
+    "Charles de Tornaco": {
+        "rating": 1005.2631578947369,
+        "races": 2,
+        "avgFinish": 0.38995215311004783
+    },
+    "Roger Laurent": {
+        "rating": 1083.3333333333333,
+        "races": 2,
+        "avgFinish": 0.6666666666666667
+    },
+    "Arthur Legat": {
+        "rating": 1004.7619047619048,
+        "races": 2,
+        "avgFinish": 0.2510822510822511
+    },
+    "Robert O'Brien": {
+        "rating": 1040.909090909091,
+        "races": 1,
+        "avgFinish": 0.4090909090909091
+    },
+    "Tony Gaze": {
+        "rating": 986.7644183773215,
+        "races": 3,
+        "avgFinish": 0.14307592049527532
+    },
+    "Robin  Montgomerie-Charrington ": {
+        "rating": 1004.5454545454545,
+        "races": 1,
+        "avgFinish": 0.045454545454545456
+    },
+    "Piero Carini": {
+        "rating": 1002.6197458455522,
+        "races": 3,
+        "avgFinish": 0.03701531443466927
+    },
+    "Dennis Poore": {
+        "rating": 1054.1666666666665,
+        "races": 2,
+        "avgFinish": 0.7224462365591398
+    },
+    "Eric Thompson": {
+        "rating": 1087.0967741935483,
+        "races": 1,
+        "avgFinish": 0.8709677419354839
+    },
+    "Roy Salvadori": {
+        "rating": 1206.5983531828463,
+        "races": 48,
+        "avgFinish": 0.33787817790158203
+    },
+    "Ken  Downing": {
+        "rating": 1005.2631578947369,
+        "races": 2,
+        "avgFinish": 0.39728353140916806
+    },
+    "Graham Whitehead": {
+        "rating": 1064.516129032258,
+        "races": 1,
+        "avgFinish": 0.6451612903225806
+    },
+    "Kenneth McAlpine": {
+        "rating": 973.5194359105648,
+        "races": 7,
+        "avgFinish": 0.19706739326554992
+    },
+    "Gino Bianco": {
+        "rating": 970.5965855498963,
+        "races": 4,
+        "avgFinish": 0.1448111205432937
+    },
+    "Tony Crook": {
+        "rating": 1003.5714285714286,
+        "races": 2,
+        "avgFinish": 0.19527649769585254
+    },
+    "Eitel Cantoni": {
+        "rating": 1058.3870967741937,
+        "races": 3,
+        "avgFinish": 0.21630824372759858
+    },
+    "Fritz Riess": {
+        "rating": 1080.0,
+        "races": 1,
+        "avgFinish": 0.8
+    },
+    "Helmut Niedermayr": {
+        "rating": 1073.3333333333333,
+        "races": 1,
+        "avgFinish": 0.7333333333333333
+    },
+    "Hans Klenk": {
+        "rating": 1066.6666666666667,
+        "races": 1,
+        "avgFinish": 0.6666666666666666
+    },
+    "Ernst Klodwig": {
+        "rating": 1061.111111111111,
+        "races": 2,
+        "avgFinish": 0.6222222222222222
+    },
+    "Willi Heeks": {
+        "rating": 1002.7777777777778,
+        "races": 2,
+        "avgFinish": 0.030555555555555555
+    },
+    "Marcel  Balsa": {
+        "rating": 1003.3333333333334,
+        "races": 1,
+        "avgFinish": 0.03333333333333333
+    },
+    "Adolf Brudes": {
+        "rating": 1003.3333333333334,
+        "races": 1,
+        "avgFinish": 0.03333333333333333
+    },
+    "G\u00c3\u00bcnther Bechem": {
+        "rating": 1002.7777777777778,
+        "races": 2,
+        "avgFinish": 0.030555555555555555
+    },
+    "Rudolf Krause": {
+        "rating": 1063.888888888889,
+        "races": 2,
+        "avgFinish": 0.3361111111111111
+    },
+    "Rudolf Schoeller": {
+        "rating": 1003.3333333333334,
+        "races": 1,
+        "avgFinish": 0.03333333333333333
+    },
+    "Bill  Aston": {
+        "rating": 1003.3333333333334,
+        "races": 1,
+        "avgFinish": 0.03333333333333333
+    },
+    "Theo Helfrich": {
+        "rating": 1037.8174603174605,
+        "races": 3,
+        "avgFinish": 0.25846560846560845
+    },
+    "Josef Peters": {
+        "rating": 1003.3333333333334,
+        "races": 1,
+        "avgFinish": 0.03333333333333333
+    },
+    "Jan Flinterman": {
+        "rating": 1005.2631578947368,
+        "races": 2,
+        "avgFinish": 0.3157894736842105
+    },
+    "Dries van der Lof ": {
+        "rating": 1005.2631578947369,
+        "races": 1,
+        "avgFinish": 0.05263157894736842
+    },
+    "Elie Bayol": {
+        "rating": 1097.0905711653525,
+        "races": 7,
+        "avgFinish": 0.234550967652138
+    },
+    "Oscar Alfredo Galvez": {
+        "rating": 1076.4705882352941,
+        "races": 1,
+        "avgFinish": 0.7647058823529411
+    },
+    "John Barber": {
+        "rating": 1058.8235294117646,
+        "races": 1,
+        "avgFinish": 0.5882352941176471
+    },
+    "Carlos Menditeguy": {
+        "rating": 1130.336240630054,
+        "races": 13,
+        "avgFinish": 0.26201370737815743
+    },
+    "Pablo Birger": {
+        "rating": 1002.8571428571429,
+        "races": 2,
+        "avgFinish": 0.043697478991596636
+    },
+    "Adolfo Schewelm Cruz": {
+        "rating": 1005.8823529411765,
+        "races": 1,
+        "avgFinish": 0.058823529411764705
+    },
+    "Jimmy  Daywalt": {
+        "rating": 980.0396735096361,
+        "races": 6,
+        "avgFinish": 0.5506210866035646
+    },
+    "Ernie McCoy": {
+        "rating": 1072.7272727272727,
+        "races": 2,
+        "avgFinish": 0.7891682785299807
+    },
+    "Johnny Mantz": {
+        "rating": 1065.9574468085107,
+        "races": 1,
+        "avgFinish": 0.6595744680851063
+    },
+    "Marshall  Teague": {
+        "rating": 1081.0509348807223,
+        "races": 4,
+        "avgFinish": 0.7004835589941973
+    },
+    "Johnny Thomson": {
+        "rating": 1102.853089849737,
+        "races": 9,
+        "avgFinish": 0.5955519796571109
+    },
+    "Don  Freeland": {
+        "rating": 1042.36615935865,
+        "races": 8,
+        "avgFinish": 0.6174375165927105
+    },
+    "Cal  Niday": {
+        "rating": 1079.8121027908262,
+        "races": 3,
+        "avgFinish": 0.5969236437321543
+    },
+    "Roberto Mieres": {
+        "rating": 1247.6464208246819,
+        "races": 17,
+        "avgFinish": 0.4066844204991842
+    },
+    "Fred Wacker": {
+        "rating": 1048.3630952380952,
+        "races": 3,
+        "avgFinish": 0.48115079365079366
+    },
+    "Georges Berger": {
+        "rating": 1004.7619047619048,
+        "races": 2,
+        "avgFinish": 0.047619047619047616
+    },
+    "Jimmy Stewart": {
+        "rating": 1003.5714285714286,
+        "races": 1,
+        "avgFinish": 0.03571428571428571
+    },
+    "Jack  Fairman": {
+        "rating": 964.7997104576599,
+        "races": 13,
+        "avgFinish": 0.22190874985229816
+    },
+    "Ian Stewart": {
+        "rating": 1003.5714285714286,
+        "races": 1,
+        "avgFinish": 0.03571428571428571
+    },
+    "Hans  Herrmann": {
+        "rating": 970.2555384712749,
+        "races": 18,
+        "avgFinish": 0.3834784094506316
+    },
+    "Rodney Nuckey": {
+        "rating": 1072.2222222222222,
+        "races": 1,
+        "avgFinish": 0.7222222222222222
+    },
+    "Wolfgang Seidel": {
+        "rating": 936.3345283334301,
+        "races": 10,
+        "avgFinish": 0.18671664661032233
+    },
+    "Edgar Barth": {
+        "rating": 1077.23063973064,
+        "races": 5,
+        "avgFinish": 0.407979797979798
+    },
+    "Oswald Karch": {
+        "rating": 1002.7777777777778,
+        "races": 1,
+        "avgFinish": 0.027777777777777776
+    },
+    "Theo Fitzau": {
+        "rating": 1002.7777777777778,
+        "races": 1,
+        "avgFinish": 0.027777777777777776
+    },
+    "Kurt Adolff": {
+        "rating": 1002.7777777777778,
+        "races": 1,
+        "avgFinish": 0.027777777777777776
+    },
+    "Erwin Bauer": {
+        "rating": 1002.7777777777778,
+        "races": 1,
+        "avgFinish": 0.027777777777777776
+    },
+    "Ernst Loof": {
+        "rating": 1002.7777777777778,
+        "races": 1,
+        "avgFinish": 0.027777777777777776
+    },
+    "Hermann Lang": {
+        "rating": 1004.7619047619047,
+        "races": 2,
+        "avgFinish": 0.4329004329004329
+    },
+    "Albert Scherrer": {
+        "rating": 1063.6363636363637,
+        "races": 1,
+        "avgFinish": 0.6363636363636364
+    },
+    "Sergio Mantovani": {
+        "rating": 953.8699486637277,
+        "races": 8,
+        "avgFinish": 0.5609525555090071
+    },
+    "Luigi Musso": {
+        "rating": 1024.5924939587717,
+        "races": 27,
+        "avgFinish": 0.5433668481929875
+    },
+    "Umberto  Maglioli": {
+        "rating": 867.8977808865479,
+        "races": 10,
+        "avgFinish": 0.46551459293394776
+    },
+    "John  Fitch": {
+        "rating": 1060.0,
+        "races": 2,
+        "avgFinish": 0.3161290322580645
+    },
+    "Jorge Daponte": {
+        "rating": 1052.3809523809523,
+        "races": 2,
+        "avgFinish": 0.2931547619047619
+    },
+    "Roger Loyer": {
+        "rating": 1006.25,
+        "races": 1,
+        "avgFinish": 0.0625
+    },
+    "Larry Crockett": {
+        "rating": 1085.4545454545455,
+        "races": 1,
+        "avgFinish": 0.8545454545454545
+    },
+    "Ed  Elisian": {
+        "rating": 967.9742806213394,
+        "races": 5,
+        "avgFinish": 0.3097224344283168
+    },
+    "Frank Armi": {
+        "rating": 1067.2727272727273,
+        "races": 1,
+        "avgFinish": 0.6727272727272727
+    },
+    "Pat  O'Connor": {
+        "rating": 1019.469696969697,
+        "races": 5,
+        "avgFinish": 0.5751515151515152
+    },
+    "Bill Homeier": {
+        "rating": 1081.1688311688315,
+        "races": 4,
+        "avgFinish": 0.6305194805194805
+    },
+    "Danny Kladis": {
+        "rating": 1047.2727272727273,
+        "races": 1,
+        "avgFinish": 0.4727272727272727
+    },
+    "Len Duncan": {
+        "rating": 1045.4545454545455,
+        "races": 1,
+        "avgFinish": 0.45454545454545453
+    },
+    "Karl Kling": {
+        "rating": 886.0765981553318,
+        "races": 12,
+        "avgFinish": 0.5044196929613596
+    },
+    "Jacques  Pollet": {
+        "rating": 1088.0720834117571,
+        "races": 5,
+        "avgFinish": 0.3139408055712404
+    },
+    "Don Beauman": {
+        "rating": 1068.75,
+        "races": 1,
+        "avgFinish": 0.6875
+    },
+    "Leslie Marr": {
+        "rating": 1003.7037037037037,
+        "races": 2,
+        "avgFinish": 0.3310185185185185
+    },
+    "Leslie Thorne": {
+        "rating": 1059.375,
+        "races": 1,
+        "avgFinish": 0.59375
+    },
+    "Bill Whitehouse": {
+        "rating": 1003.125,
+        "races": 1,
+        "avgFinish": 0.03125
+    },
+    "Ron Flockhart": {
+        "rating": 1128.716758681038,
+        "races": 13,
+        "avgFinish": 0.29725626426713386
+    },
+    "Horace  Gould ": {
+        "rating": 960.0855615048832,
+        "races": 14,
+        "avgFinish": 0.25709144769018716
+    },
+    "John Riseley-Prichard": {
+        "rating": 1003.125,
+        "races": 1,
+        "avgFinish": 0.03125
+    },
+    "Clemar Bucci": {
+        "rating": 1005.250496031746,
+        "races": 5,
+        "avgFinish": 0.043511904761904766
+    },
+    "Ottorino  Volonterio ": {
+        "rating": 1050.108225108225,
+        "races": 3,
+        "avgFinish": 0.1976911976911977
+    },
+    "Jesus Iglesias": {
+        "rating": 1002.8571428571429,
+        "races": 1,
+        "avgFinish": 0.02857142857142857
+    },
+    "Eugenio Castellotti": {
+        "rating": 979.1181289373876,
+        "races": 19,
+        "avgFinish": 0.38002017867915017
+    },
+    "Alberto Uria": {
+        "rating": 1101.6964285714287,
+        "races": 3,
+        "avgFinish": 0.4678571428571428
+    },
+    "Cesare Perdisa": {
+        "rating": 1100.8769667287204,
+        "races": 8,
+        "avgFinish": 0.661748340640604
+    },
+    "Al  Herman": {
+        "rating": 978.7244291656057,
+        "races": 5,
+        "avgFinish": 0.42507257448433916
+    },
+    "Chuck  Weyant": {
+        "rating": 991.3419913419915,
+        "races": 4,
+        "avgFinish": 0.4441558441558442
+    },
+    "Shorty  Templeman": {
+        "rating": 1048.5281385281382,
+        "races": 3,
+        "avgFinish": 0.49466089466089463
+    },
+    "Keith  Andrews": {
+        "rating": 1026.4705882352941,
+        "races": 2,
+        "avgFinish": 0.36092436974789915
+    },
+    "Eddie  Russo": {
+        "rating": 1000.8318478906714,
+        "races": 4,
+        "avgFinish": 0.2639928698752228
+    },
+    "Ray  Crawford": {
+        "rating": 1023.5854341736695,
+        "races": 3,
+        "avgFinish": 0.29374416433239964
+    },
+    "Al  Keller": {
+        "rating": 1076.5917579152872,
+        "races": 5,
+        "avgFinish": 0.45374586198115613
+    },
+    "Johnny  Boyd": {
+        "rating": 1129.3080808080808,
+        "races": 6,
+        "avgFinish": 0.5325906120023767
+    },
+    "Hermano da Silva Ramos": {
+        "rating": 995.9059873949578,
+        "races": 7,
+        "avgFinish": 0.33570817215775195
+    },
+    "Mike Sparken": {
+        "rating": 1077.7777777777778,
+        "races": 1,
+        "avgFinish": 0.7777777777777778
+    },
+    "Jack Brabham": {
+        "rating": 1392.7969609390143,
+        "races": 128,
+        "avgFinish": 0.48485981497835745
+    },
+    "Jean  Lucas": {
+        "rating": 1010.0,
+        "races": 1,
+        "avgFinish": 0.1
+    },
+    "Gerino  Gerini ": {
+        "rating": 936.3663419913419,
+        "races": 7,
+        "avgFinish": 0.5136270871985158
+    },
+    "Olivier  Gendebien": {
+        "rating": 1106.526857807507,
+        "races": 15,
+        "avgFinish": 0.5977909941870098
+    },
+    "Oscar  Gonzalez ": {
+        "rating": 1068.75,
+        "races": 2,
+        "avgFinish": 0.6875
+    },
+    "Luigi Piotti": {
+        "rating": 1043.8883053221289,
+        "races": 6,
+        "avgFinish": 0.25491946778711483
+    },
+    "Bob  Veith": {
+        "rating": 1043.360071301248,
+        "races": 5,
+        "avgFinish": 0.655614973262032
+    },
+    "Bob  Christie": {
+        "rating": 1043.033273915627,
+        "races": 5,
+        "avgFinish": 0.5778966131907308
+    },
+    "Billy  Garrett": {
+        "rating": 1039.3939393939395,
+        "races": 2,
+        "avgFinish": 0.4763814616755793
+    },
+    "Johnnie  Tolan": {
+        "rating": 1064.2602495543672,
+        "races": 3,
+        "avgFinish": 0.4907902554961378
+    },
+    "Jack  Turner": {
+        "rating": 1026.5002970885325,
+        "races": 4,
+        "avgFinish": 0.36898395721925137
+    },
+    "Piero  Scotti ": {
+        "rating": 1006.25,
+        "races": 1,
+        "avgFinish": 0.0625
+    },
+    "Alfonso de Portago ": {
+        "rating": 1063.6134453781513,
+        "races": 6,
+        "avgFinish": 0.42705415499533145
+    },
+    "Desmond   Titterington": {
+        "rating": 1003.3333333333334,
+        "races": 1,
+        "avgFinish": 0.03333333333333333
+    },
+    "Tony Brooks": {
+        "rating": 1038.3343418649815,
+        "races": 42,
+        "avgFinish": 0.4603050414024578
+    },
+    "Bruce  Halford ": {
+        "rating": 1082.438492063492,
+        "races": 8,
+        "avgFinish": 0.190625
+    },
+    "Archie  Scott-Brown ": {
+        "rating": 1003.3333333333334,
+        "races": 1,
+        "avgFinish": 0.03333333333333333
+    },
+    "Paul  Emery ": {
+        "rating": 1003.3333333333334,
+        "races": 1,
+        "avgFinish": 0.03333333333333333
+    },
+    "Andre  Milhoux ": {
+        "rating": 1004.7619047619048,
+        "races": 1,
+        "avgFinish": 0.047619047619047616
+    },
+    "Giorgio  Scarlatti ": {
+        "rating": 1033.1330736499417,
+        "races": 12,
+        "avgFinish": 0.30202458956455125
+    },
+    "Jo Bonnier": {
+        "rating": 1226.7130908859954,
+        "races": 105,
+        "avgFinish": 0.35217907843274066
+    },
+    "Les  Leston ": {
+        "rating": 1005.3571428571428,
+        "races": 3,
+        "avgFinish": 0.04365079365079364
+    },
+    "Wolfgang von Trips": {
+        "rating": 1093.5894230602885,
+        "races": 27,
+        "avgFinish": 0.6014717751883849
+    },
+    "Alessandro de Tomaso": {
+        "rating": 1005.5555555555557,
+        "races": 2,
+        "avgFinish": 0.29248366013071897
+    },
+    "Masten Gregory": {
+        "rating": 525.5726758302106,
+        "races": 39,
+        "avgFinish": 0.40601168160328077
+    },
+    "Stuart  Lewis-Evans ": {
+        "rating": 930.6199148079727,
+        "races": 15,
+        "avgFinish": 0.4019805038442809
+    },
+    "Ivor  Bueb ": {
+        "rating": 1089.175925925926,
+        "races": 6,
+        "avgFinish": 0.4231481481481481
+    },
+    "Don  Edmunds": {
+        "rating": 1045.4545454545455,
+        "races": 1,
+        "avgFinish": 0.45454545454545453
+    },
+    "Eddie  Sachs": {
+        "rating": 1052.020202020202,
+        "races": 4,
+        "avgFinish": 0.4015151515151515
+    },
+    "Mike  Magill": {
+        "rating": 1022.7272727272727,
+        "races": 3,
+        "avgFinish": 0.3131313131313131
+    },
+    "Bill  Cheesbourg": {
+        "rating": 1063.6363636363637,
+        "races": 3,
+        "avgFinish": 0.4545454545454546
+    },
+    "Elmer  George": {
+        "rating": 1003.030303030303,
+        "races": 1,
+        "avgFinish": 0.030303030303030304
+    },
+    "Mike  MacDowel ": {
+        "rating": 1062.5,
+        "races": 1,
+        "avgFinish": 0.625
+    },
+    "Herbert MacKay-Fraser": {
+        "rating": 1006.25,
+        "races": 1,
+        "avgFinish": 0.0625
+    },
+    "Brian  Naylor ": {
+        "rating": 955.7815217391304,
+        "races": 7,
+        "avgFinish": 0.17412784679089024
+    },
+    "Carel Godin de Beaufort ": {
+        "rating": 1136.3146205714138,
+        "races": 28,
+        "avgFinish": 0.46661158716340667
+    },
+    "Tony  Marsh ": {
+        "rating": 1025.5821615660325,
+        "races": 4,
+        "avgFinish": 0.40761579818031435
+    },
+    "Paul England": {
+        "rating": 1004.1666666666666,
+        "races": 1,
+        "avgFinish": 0.041666666666666664
+    },
+    "Dick   Gibson": {
+        "rating": 1004.0,
+        "races": 2,
+        "avgFinish": 0.04083333333333333
+    },
+    "Cliff Allison": {
+        "rating": 969.7133638493228,
+        "races": 16,
+        "avgFinish": 0.4615509995647589
+    },
+    "Graham Hill": {
+        "rating": 2030.4697978311922,
+        "races": 176,
+        "avgFinish": 0.4672322358891851
+    },
+    "George  Amick": {
+        "rating": 1096.969696969697,
+        "races": 1,
+        "avgFinish": 0.9696969696969697
+    },
+    "Jud  Larson": {
+        "rating": 1015.1515151515151,
+        "races": 2,
+        "avgFinish": 0.46969696969696967
+    },
+    "Dempsey  Wilson": {
+        "rating": 1003.030303030303,
+        "races": 2,
+        "avgFinish": 0.30303030303030304
+    },
+    "Anthony Joseph Foyt": {
+        "rating": 1036.3636363636365,
+        "races": 3,
+        "avgFinish": 0.5151515151515151
+    },
+    "Paul Goldsmith": {
+        "rating": 1131.818181818182,
+        "races": 3,
+        "avgFinish": 0.6464646464646465
+    },
+    "Jerry  Unser": {
+        "rating": 1009.0909090909091,
+        "races": 1,
+        "avgFinish": 0.09090909090909091
+    },
+    "Len  Sutton": {
+        "rating": 1012.121212121212,
+        "races": 3,
+        "avgFinish": 0.08080808080808081
+    },
+    "Art  Bisch": {
+        "rating": 1003.030303030303,
+        "races": 1,
+        "avgFinish": 0.030303030303030304
+    },
+    "Maria Teresa de Filippis ": {
+        "rating": 981.5629984051035,
+        "races": 3,
+        "avgFinish": 0.21281233386496543
+    },
+    "Phil Hill": {
+        "rating": 479.710236294161,
+        "races": 48,
+        "avgFinish": 0.5601429651479638
+    },
+    "Carroll  Shelby ": {
+        "rating": 1072.4839917027418,
+        "races": 9,
+        "avgFinish": 0.31816378066378065
+    },
+    "Ian Burgess ": {
+        "rating": 1075.9496124430173,
+        "races": 16,
+        "avgFinish": 0.33875786409709985
+    },
+    "Alan  Stacey ": {
+        "rating": 977.562091503268,
+        "races": 7,
+        "avgFinish": 0.14821631551171194
+    },
+    "Bruce McLaren": {
+        "rating": 373.6588027592067,
+        "races": 100,
+        "avgFinish": 0.529765979080603
+    },
+    "Christian  Goethals ": {
+        "rating": 1004.0,
+        "races": 1,
+        "avgFinish": 0.04
+    },
+    "Giulio Cabianca": {
+        "rating": 1095.6439393939393,
+        "races": 3,
+        "avgFinish": 0.3970959595959596
+    },
+    "Robert La Caze": {
+        "rating": 1048.0,
+        "races": 1,
+        "avgFinish": 0.48
+    },
+    "Andre Guelfi": {
+        "rating": 1044.0,
+        "races": 1,
+        "avgFinish": 0.44
+    },
+    "Francois Picard": {
+        "rating": 1004.0,
+        "races": 1,
+        "avgFinish": 0.04
+    },
+    "Tom Bridger": {
+        "rating": 1004.0,
+        "races": 1,
+        "avgFinish": 0.04
+    },
+    "Chuck  Arnold": {
+        "rating": 1057.5757575757575,
+        "races": 1,
+        "avgFinish": 0.5757575757575758
+    },
+    "Jim  McWithey": {
+        "rating": 1015.1515151515151,
+        "races": 2,
+        "avgFinish": 0.34848484848484845
+    },
+    "Don  Branson": {
+        "rating": 1090.9090909090908,
+        "races": 2,
+        "avgFinish": 0.6060606060606061
+    },
+    "Bobby  Grim": {
+        "rating": 1054.5454545454545,
+        "races": 2,
+        "avgFinish": 0.3939393939393939
+    },
+    "Red  Amick": {
+        "rating": 1069.6969696969697,
+        "races": 2,
+        "avgFinish": 0.393939393939394
+    },
+    "Innes Ireland": {
+        "rating": 848.3230531669042,
+        "races": 50,
+        "avgFinish": 0.38891935037597264
+    },
+    "Fritz d'Orey": {
+        "rating": 979.0674603174602,
+        "races": 3,
+        "avgFinish": 0.22288359788359788
+    },
+    "Dan Gurney": {
+        "rating": 586.6777445173886,
+        "races": 86,
+        "avgFinish": 0.42967725015492386
+    },
+    "Colin  Davis ": {
+        "rating": 1052.3809523809525,
+        "races": 2,
+        "avgFinish": 0.2857142857142857
+    },
+    "Chris  Bristow ": {
+        "rating": 958.7622549019608,
+        "races": 4,
+        "avgFinish": 0.20128676470588236
+    },
+    "Henry Taylor": {
+        "rating": 1015.8494106762706,
+        "races": 8,
+        "avgFinish": 0.5746390396567517
+    },
+    "Peter  Ashdown ": {
+        "rating": 1054.1666666666667,
+        "races": 1,
+        "avgFinish": 0.5416666666666666
+    },
+    "David  Piper ": {
+        "rating": 1054.1666666666665,
+        "races": 2,
+        "avgFinish": 0.29166666666666663
+    },
+    "Mike  Taylor ": {
+        "rating": 1004.1666666666666,
+        "races": 1,
+        "avgFinish": 0.041666666666666664
+    },
+    "Mario  de Araujo Cabral ": {
+        "rating": 972.6830808080808,
+        "races": 4,
+        "avgFinish": 0.14990530303030303
+    },
+    "Harry  Blanchard ": {
+        "rating": 1066.6666666666667,
+        "races": 1,
+        "avgFinish": 0.6666666666666666
+    },
+    "George  Constantine": {
+        "rating": 1005.5555555555555,
+        "races": 1,
+        "avgFinish": 0.05555555555555555
+    },
+    "Bob  Said ": {
+        "rating": 1005.5555555555555,
+        "races": 1,
+        "avgFinish": 0.05555555555555555
+    },
+    "Alberto Rodriguez Larreta": {
+        "rating": 1065.2173913043478,
+        "races": 1,
+        "avgFinish": 0.6521739130434783
+    },
+    "Roberto Bonomi": {
+        "rating": 1056.5217391304348,
+        "races": 1,
+        "avgFinish": 0.5652173913043478
+    },
+    "Gino  Munaron ": {
+        "rating": 995.006038647343,
+        "races": 4,
+        "avgFinish": 0.251856884057971
+    },
+    "Nasif Estefano": {
+        "rating": 1043.4782608695652,
+        "races": 1,
+        "avgFinish": 0.43478260869565216
+    },
+    "Ettore  Chimeri ": {
+        "rating": 1004.3478260869565,
+        "races": 1,
+        "avgFinish": 0.043478260869565216
+    },
+    "Antonio  Creus ": {
+        "rating": 1004.3478260869565,
+        "races": 1,
+        "avgFinish": 0.043478260869565216
+    },
+    "Richie Ginther": {
+        "rating": 826.2093269402327,
+        "races": 52,
+        "avgFinish": 0.6018235265618596
+    },
+    "John Surtees": {
+        "rating": 995.3582964624397,
+        "races": 110,
+        "avgFinish": 0.42474910683804024
+    },
+    "Lloyd  Ruby ": {
+        "rating": 1005.0,
+        "races": 2,
+        "avgFinish": 0.43409090909090914
+    },
+    "Bud  Tingelstad": {
+        "rating": 1075.7575757575758,
+        "races": 1,
+        "avgFinish": 0.7575757575757576
+    },
+    "Jim  Hurtubise": {
+        "rating": 1048.4848484848485,
+        "races": 1,
+        "avgFinish": 0.48484848484848486
+    },
+    "Wayne  Weiler": {
+        "rating": 1030.3030303030303,
+        "races": 1,
+        "avgFinish": 0.30303030303030304
+    },
+    "Jim Clark": {
+        "rating": 1155.4131650303727,
+        "races": 73,
+        "avgFinish": 0.6008164682939151
+    },
+    "Lucien Bianchi": {
+        "rating": 966.835980061389,
+        "races": 17,
+        "avgFinish": 0.24935700123632276
+    },
+    "Willy Mairesse": {
+        "rating": 1042.1088005029846,
+        "races": 12,
+        "avgFinish": 0.23377177518044398
+    },
+    "Chuck  Daigh ": {
+        "rating": 1060.0117220801365,
+        "races": 3,
+        "avgFinish": 0.23639528275078148
+    },
+    "Lance  Reventlow ": {
+        "rating": 1005.8823529411765,
+        "races": 1,
+        "avgFinish": 0.058823529411764705
+    },
+    "Keith  Greene ": {
+        "rating": 1029.18217535153,
+        "races": 3,
+        "avgFinish": 0.20950510063413286
+    },
+    "Piero  Drogo": {
+        "rating": 1056.25,
+        "races": 1,
+        "avgFinish": 0.5625
+    },
+    "Fred  Gamble": {
+        "rating": 1043.75,
+        "races": 1,
+        "avgFinish": 0.4375
+    },
+    "Alfonso  Thiele": {
+        "rating": 1006.25,
+        "races": 1,
+        "avgFinish": 0.0625
+    },
+    "Vic  Wilson": {
+        "rating": 1006.25,
+        "races": 1,
+        "avgFinish": 0.0625
+    },
+    "Arthur  Owen": {
+        "rating": 1006.25,
+        "races": 1,
+        "avgFinish": 0.0625
+    },
+    "Jim  Hall ": {
+        "rating": 1140.443964269479,
+        "races": 11,
+        "avgFinish": 0.4999950919339311
+    },
+    "Pete  Lovely ": {
+        "rating": 915.8035485376741,
+        "races": 7,
+        "avgFinish": 0.2779492702082878
+    },
+    "Bob  Drake": {
+        "rating": 1047.8260869565217,
+        "races": 1,
+        "avgFinish": 0.4782608695652174
+    },
+    "Michael  May ": {
+        "rating": 1061.5384615384614,
+        "races": 2,
+        "avgFinish": 0.3389423076923077
+    },
+    "Trevor  Taylor ": {
+        "rating": 919.2389093722637,
+        "races": 27,
+        "avgFinish": 0.29191738476336376
+    },
+    "Jackie  Lewis ": {
+        "rating": 1060.8327073850635,
+        "races": 9,
+        "avgFinish": 0.4392435999765221
+    },
+    "Lorenzo Bandini": {
+        "rating": 1267.0402695767812,
+        "races": 42,
+        "avgFinish": 0.5099365275063376
+    },
+    "Giancarlo Baghetti": {
+        "rating": 863.0738551052453,
+        "races": 21,
+        "avgFinish": 0.33691933903517157
+    },
+    "Bernard  Collomb ": {
+        "rating": 1059.090909090909,
+        "races": 4,
+        "avgFinish": 0.1765734265734266
+    },
+    "Tony Maggs": {
+        "rating": 984.3860717722883,
+        "races": 25,
+        "avgFinish": 0.5457807635093705
+    },
+    "Tim  Parnell ": {
+        "rating": 1071.875,
+        "races": 2,
+        "avgFinish": 0.3755040322580645
+    },
+    "Gerry  Ashmore ": {
+        "rating": 1022.6659429280397,
+        "races": 3,
+        "avgFinish": 0.1621949958643507
+    },
+    "Massimo  Natili ": {
+        "rating": 1003.2258064516129,
+        "races": 1,
+        "avgFinish": 0.03225806451612903
+    },
+    "Renato  Pirocchi ": {
+        "rating": 1065.625,
+        "races": 1,
+        "avgFinish": 0.65625
+    },
+    "Gaetano   Starrabba": {
+        "rating": 1003.125,
+        "races": 1,
+        "avgFinish": 0.03125
+    },
+    "Nino Vaccarella": {
+        "rating": 1098.5318953389606,
+        "races": 4,
+        "avgFinish": 0.40839380275521586
+    },
+    "Ricardo  Rodriguez ": {
+        "rating": 1129.9577971370732,
+        "races": 5,
+        "avgFinish": 0.4223999903605167
+    },
+    "Roberto Bussinello": {
+        "rating": 1047.8260869565217,
+        "races": 2,
+        "avgFinish": 0.2547554347826087
+    },
+    "Roberto  Lippi ": {
+        "rating": 1003.125,
+        "races": 1,
+        "avgFinish": 0.03125
+    },
+    "Roger  Penske ": {
+        "rating": 1055.5555555555557,
+        "races": 2,
+        "avgFinish": 0.6027777777777779
+    },
+    "Peter   Ryan": {
+        "rating": 1060.0,
+        "races": 1,
+        "avgFinish": 0.6
+    },
+    "Hap  Sharp ": {
+        "rating": 997.793163464216,
+        "races": 6,
+        "avgFinish": 0.3620648844333054
+    },
+    "Walt   Hansgen": {
+        "rating": 1080.952380952381,
+        "races": 2,
+        "avgFinish": 0.4297619047619048
+    },
+    "Ben  Pon ": {
+        "rating": 1005.0,
+        "races": 1,
+        "avgFinish": 0.05
+    },
+    "Jo Siffert": {
+        "rating": 1233.065065074181,
+        "races": 96,
+        "avgFinish": 0.38989391876984264
+    },
+    "John  Campbell-Jones ": {
+        "rating": 1047.8260869565217,
+        "races": 2,
+        "avgFinish": 0.4759725400457666
+    },
+    "Tony  Settember ": {
+        "rating": 956.4303570190297,
+        "races": 6,
+        "avgFinish": 0.22716549278334175
+    },
+    "Jay  Chamberlain ": {
+        "rating": 1033.3333333333333,
+        "races": 1,
+        "avgFinish": 0.3333333333333333
+    },
+    "Tony   Shelly": {
+        "rating": 1004.7619047619048,
+        "races": 1,
+        "avgFinish": 0.047619047619047616
+    },
+    "Heini  Walter ": {
+        "rating": 1050.0,
+        "races": 1,
+        "avgFinish": 0.5
+    },
+    "Heinz  Schiller ": {
+        "rating": 1003.8461538461538,
+        "races": 1,
+        "avgFinish": 0.038461538461538464
+    },
+    "Rob  Schroeder ": {
+        "rating": 1050.0,
+        "races": 1,
+        "avgFinish": 0.5
+    },
+    "Timmy Mayer ": {
+        "rating": 1005.5555555555555,
+        "races": 1,
+        "avgFinish": 0.05555555555555555
+    },
+    "Neville Lederle": {
+        "rating": 1070.5882352941176,
+        "races": 1,
+        "avgFinish": 0.7058823529411765
+    },
+    "John Love": {
+        "rating": 989.4112576468714,
+        "races": 9,
+        "avgFinish": 0.449904256016788
+    },
+    "Bruce  Johnstone ": {
+        "rating": 1052.9411764705883,
+        "races": 1,
+        "avgFinish": 0.5294117647058824
+    },
+    "Ernie Pieterse": {
+        "rating": 1005.0,
+        "races": 2,
+        "avgFinish": 0.26029411764705884
+    },
+    "Doug Serrurier": {
+        "rating": 1050.0,
+        "races": 2,
+        "avgFinish": 0.27941176470588236
+    },
+    "Mike  Harris ": {
+        "rating": 1005.8823529411765,
+        "races": 1,
+        "avgFinish": 0.058823529411764705
+    },
+    "Chris Amon": {
+        "rating": 1459.6529458351038,
+        "races": 96,
+        "avgFinish": 0.4144062297357136
+    },
+    "Ludovico Scarfiotti": {
+        "rating": 991.5908631817493,
+        "races": 10,
+        "avgFinish": 0.4816081636452817
+    },
+    "Gerhard Mitter": {
+        "rating": 1021.5637958532697,
+        "races": 5,
+        "avgFinish": 0.3290526315789474
+    },
+    "Mike Hailwood": {
+        "rating": 993.7138644341568,
+        "races": 50,
+        "avgFinish": 0.399160909181673
+    },
+    "Bob Anderson": {
+        "rating": 854.8588412384008,
+        "races": 25,
+        "avgFinish": 0.38675078577764005
+    },
+    "Ian Raby": {
+        "rating": 1050.0,
+        "races": 3,
+        "avgFinish": 0.19565217391304346
+    },
+    "Mike Spence": {
+        "rating": 822.8317517641902,
+        "races": 37,
+        "avgFinish": 0.4297933886532621
+    },
+    "Peter Broeker ": {
+        "rating": 1071.4285714285713,
+        "races": 1,
+        "avgFinish": 0.7142857142857143
+    },
+    "Pedro Rodriguez": {
+        "rating": 1289.0076552038192,
+        "races": 55,
+        "avgFinish": 0.43156399509062904
+    },
+    "Moises Solana": {
+        "rating": 898.9991025650024,
+        "races": 8,
+        "avgFinish": 0.2136499336576736
+    },
+    "Trevor Blokdyk": {
+        "rating": 1045.0,
+        "races": 1,
+        "avgFinish": 0.45
+    },
+    "Brausch Niemann": {
+        "rating": 1035.0,
+        "races": 1,
+        "avgFinish": 0.35
+    },
+    "Peter de Klerk": {
+        "rating": 1065.2254428341387,
+        "races": 4,
+        "avgFinish": 0.3051932367149759
+    },
+    "David Prophet": {
+        "rating": 1035.0,
+        "races": 2,
+        "avgFinish": 0.19999999999999998
+    },
+    "Sam Tingle": {
+        "rating": 1057.9367954911434,
+        "races": 5,
+        "avgFinish": 0.23202898550724638
+    },
+    "Peter  Arundell ": {
+        "rating": 946.8866496078614,
+        "races": 11,
+        "avgFinish": 0.5409260301675162
+    },
+    "Peter   Revson": {
+        "rating": 1415.102001466231,
+        "races": 30,
+        "avgFinish": 0.5701768164650021
+    },
+    "John  Taylor ": {
+        "rating": 1021.9208818793219,
+        "races": 5,
+        "avgFinish": 0.48318745855830264
+    },
+    "Frank Gardner": {
+        "rating": 1036.2526989628802,
+        "races": 8,
+        "avgFinish": 0.2208105481895275
+    },
+    "Ronnie Bucknum": {
+        "rating": 1058.5010432266774,
+        "races": 11,
+        "avgFinish": 0.23012543428526858
+    },
+    "Jochen Rindt": {
+        "rating": 1276.5798803218147,
+        "races": 60,
+        "avgFinish": 0.38300494521610534
+    },
+    "Jackie Stewart": {
+        "rating": 1521.3937266451146,
+        "races": 99,
+        "avgFinish": 0.5980863540420851
+    },
+    "Paul Hawkins": {
+        "rating": 997.1381578947369,
+        "races": 3,
+        "avgFinish": 0.36337719298245613
+    },
+    "Denny Hulme": {
+        "rating": 1468.720330889139,
+        "races": 112,
+        "avgFinish": 0.5868036404730479
+    },
+    "Richard Attwood": {
+        "rating": 1234.470879812529,
+        "races": 17,
+        "avgFinish": 0.4671571282526561
+    },
+    "John Rhodes": {
+        "rating": 1005.0,
+        "races": 1,
+        "avgFinish": 0.05
+    },
+    "Giacomo Russo": {
+        "rating": 1060.0,
+        "races": 2,
+        "avgFinish": 0.3217391304347826
+    },
+    "Giorgio Bassi": {
+        "rating": 1004.3478260869565,
+        "races": 1,
+        "avgFinish": 0.043478260869565216
+    },
+    "Bob Bondurant": {
+        "rating": 968.8434978036049,
+        "races": 9,
+        "avgFinish": 0.32652999146377204
+    },
+    "Guy  Ligier ": {
+        "rating": 1125.3405900464916,
+        "races": 12,
+        "avgFinish": 0.3074053290907006
+    },
+    "Mike  Parkes ": {
+        "rating": 997.3335148874364,
+        "races": 6,
+        "avgFinish": 0.4678830791575888
+    },
+    "Chris   Irwin": {
+        "rating": 883.626369846184,
+        "races": 10,
+        "avgFinish": 0.37385139318885446
+    },
+    "Chris  Lawrence ": {
+        "rating": 1003.7037037037037,
+        "races": 2,
+        "avgFinish": 0.2685185185185185
+    },
+    "Jean-Pierre Beltoise": {
+        "rating": 497.5147319710366,
+        "races": 86,
+        "avgFinish": 0.443615815392699
+    },
+    "Hubert  Hahne ": {
+        "rating": 1021.8148148148149,
+        "races": 3,
+        "avgFinish": 0.4312345679012346
+    },
+    "Jo  Schlesser ": {
+        "rating": 974.5490196078432,
+        "races": 3,
+        "avgFinish": 0.25516339869281046
+    },
+    "Alan  Rees ": {
+        "rating": 1104.148148148148,
+        "races": 3,
+        "avgFinish": 0.46567901234567904
+    },
+    "Piers   Courage": {
+        "rating": 1208.3966693280772,
+        "races": 28,
+        "avgFinish": 0.2768032365256924
+    },
+    "Kurt  Ahrens ": {
+        "rating": 1099.0088183421517,
+        "races": 4,
+        "avgFinish": 0.31033068783068785
+    },
+    "Jacky Ickx": {
+        "rating": 822.0513086823817,
+        "races": 116,
+        "avgFinish": 0.4635878472028505
+    },
+    "Dave Charlton": {
+        "rating": 1053.9573790697582,
+        "races": 11,
+        "avgFinish": 0.15529559812168506
+    },
+    "Luki  Botha ": {
+        "rating": 1005.5555555555555,
+        "races": 1,
+        "avgFinish": 0.05555555555555555
+    },
+    "Johnny  Servoz-Gavin ": {
+        "rating": 1135.3849666238914,
+        "races": 12,
+        "avgFinish": 0.2869886179109325
+    },
+    "David   Hobbs": {
+        "rating": 1056.5252197430698,
+        "races": 7,
+        "avgFinish": 0.5712952767313823
+    },
+    "Silvio  Moser ": {
+        "rating": 1013.7059851313579,
+        "races": 12,
+        "avgFinish": 0.2366496530402339
+    },
+    "Jackie Oliver": {
+        "rating": 896.3017092500253,
+        "races": 50,
+        "avgFinish": 0.25807689091916436
+    },
+    "Brian Hart": {
+        "rating": 1004.0,
+        "races": 1,
+        "avgFinish": 0.04
+    },
+    "Mike  Fisher ": {
+        "rating": 1005.2631578947369,
+        "races": 2,
+        "avgFinish": 0.23219814241486067
+    },
+    "Eppie   Wietzes": {
+        "rating": 1003.8461538461538,
+        "races": 2,
+        "avgFinish": 0.048642533936651584
+    },
+    "Al  Pease ": {
+        "rating": 1005.0,
+        "races": 2,
+        "avgFinish": 0.054411764705882354
+    },
+    "Jonathan  Williams ": {
+        "rating": 1063.157894736842,
+        "races": 1,
+        "avgFinish": 0.631578947368421
+    },
+    "Jackie Pretorius": {
+        "rating": 1003.8260869565217,
+        "races": 3,
+        "avgFinish": 0.04115942028985508
+    },
+    "Basil van Rooyen ": {
+        "rating": 1005.5555555555555,
+        "races": 2,
+        "avgFinish": 0.049516908212560384
+    },
+    "Andrea de Adamich ": {
+        "rating": 1152.6204632559043,
+        "races": 30,
+        "avgFinish": 0.2870979804606056
+    },
+    "Brian   Redman": {
+        "rating": 1056.9142616700278,
+        "races": 12,
+        "avgFinish": 0.4474414649122456
+    },
+    "Vic  Elford ": {
+        "rating": 1062.0228575675558,
+        "races": 13,
+        "avgFinish": 0.4237762535154771
+    },
+    "Robin   Widdows": {
+        "rating": 1005.0,
+        "races": 1,
+        "avgFinish": 0.05
+    },
+    "Derek Bell": {
+        "rating": 1085.3926428355796,
+        "races": 9,
+        "avgFinish": 0.19314352089355694
+    },
+    "Henri Pescarolo": {
+        "rating": 599.6436589759637,
+        "races": 57,
+        "avgFinish": 0.37173763164599466
+    },
+    "Bill   Brack": {
+        "rating": 1004.1666666666666,
+        "races": 3,
+        "avgFinish": 0.04722222222222222
+    },
+    "Bobby   Unser": {
+        "rating": 1005.2631578947369,
+        "races": 1,
+        "avgFinish": 0.05263157894736842
+    },
+    "Mario Andretti": {
+        "rating": 1559.8343648444436,
+        "races": 128,
+        "avgFinish": 0.4137939564715744
+    },
+    "John   Miles": {
+        "rating": 1054.4108033794225,
+        "races": 12,
+        "avgFinish": 0.2580273937131354
+    },
+    "Rolf Stommelen": {
+        "rating": 839.4099389920417,
+        "races": 55,
+        "avgFinish": 0.4148214272272629
+    },
+    "Peter  Westbury ": {
+        "rating": 1061.904761904762,
+        "races": 1,
+        "avgFinish": 0.6190476190476191
+    },
+    "Xavier Perrot": {
+        "rating": 1057.142857142857,
+        "races": 1,
+        "avgFinish": 0.5714285714285714
+    },
+    "Francois  Cevert ": {
+        "rating": 1571.9356645173507,
+        "races": 47,
+        "avgFinish": 0.5241931255597072
+    },
+    "John  Cordts ": {
+        "rating": 1005.0,
+        "races": 1,
+        "avgFinish": 0.05
+    },
+    "George Eaton": {
+        "rating": 1111.579519812976,
+        "races": 11,
+        "avgFinish": 0.21381118203659477
+    },
+    "Ronnie Peterson": {
+        "rating": 796.0603200744831,
+        "races": 123,
+        "avgFinish": 0.47344162771252846
+    },
+    "Ignazio  Giunti ": {
+        "rating": 992.2058823529411,
+        "races": 4,
+        "avgFinish": 0.49338235294117644
+    },
+    "Clay Regazzoni": {
+        "rating": 401.3560059438056,
+        "races": 133,
+        "avgFinish": 0.5101559754998478
+    },
+    "Peter  Gethin ": {
+        "rating": 1012.5790367673493,
+        "races": 30,
+        "avgFinish": 0.26885572318986256
+    },
+    "Emerson Fittipaldi": {
+        "rating": -16.064741203337043,
+        "races": 144,
+        "avgFinish": 0.5377823168401029
+    },
+    "Tim   Schenken": {
+        "rating": 1163.220477790731,
+        "races": 34,
+        "avgFinish": 0.3135141216753849
+    },
+    "Reine   Wisell": {
+        "rating": 801.3358962454765,
+        "races": 22,
+        "avgFinish": 0.31009453904266765
+    },
+    "Gus  Hutchison ": {
+        "rating": 1004.1666666666666,
+        "races": 1,
+        "avgFinish": 0.041666666666666664
+    },
+    "Howden  Ganley ": {
+        "rating": 1014.6272946411173,
+        "races": 35,
+        "avgFinish": 0.4277671976976943
+    },
+    "Alex  Soler-Roig ": {
+        "rating": 1004.6823938139155,
+        "races": 6,
+        "avgFinish": 0.04303642010163749
+    },
+    "Gijs van Lennep": {
+        "rating": 1023.5505521048999,
+        "races": 8,
+        "avgFinish": 0.5760144927536232
+    },
+    "Skip  Barber ": {
+        "rating": 1051.3135737238906,
+        "races": 5,
+        "avgFinish": 0.13512235817575083
+    },
+    "Nanni  Galli ": {
+        "rating": 966.2497408273821,
+        "races": 17,
+        "avgFinish": 0.23495161290669112
+    },
+    "Dave  Walker ": {
+        "rating": 1004.9047178547305,
+        "races": 11,
+        "avgFinish": 0.25659592498302175
+    },
+    "Francois  Mazet ": {
+        "rating": 1047.8260869565217,
+        "races": 1,
+        "avgFinish": 0.4782608695652174
+    },
+    "Max   Jean": {
+        "rating": 1004.3478260869565,
+        "races": 1,
+        "avgFinish": 0.043478260869565216
+    },
+    "Mike  Beuttler ": {
+        "rating": 1241.5133408681922,
+        "races": 28,
+        "avgFinish": 0.2779940203194298
+    },
+    "Helmut  Marko ": {
+        "rating": 1063.9037031229282,
+        "races": 9,
+        "avgFinish": 0.46313962066585757
+    },
+    "Niki Lauda": {
+        "rating": 1326.4762071890234,
+        "races": 170,
+        "avgFinish": 0.4787283427069975
+    },
+    "Jean-Pierre Jarier": {
+        "rating": 1850.6362529720059,
+        "races": 134,
+        "avgFinish": 0.34302628227022675
+    },
+    "Mark Donohue": {
+        "rating": 939.8679896405447,
+        "races": 14,
+        "avgFinish": 0.44309393505045674
+    },
+    "John  Cannon ": {
+        "rating": 1055.1724137931035,
+        "races": 1,
+        "avgFinish": 0.5517241379310345
+    },
+    "Chris  Craft ": {
+        "rating": 1003.448275862069,
+        "races": 1,
+        "avgFinish": 0.034482758620689655
+    },
+    "Sam   Posey": {
+        "rating": 1064.516129032258,
+        "races": 2,
+        "avgFinish": 0.3398220244716351
+    },
+    "Carlos Reutemann": {
+        "rating": 2065.5721088701853,
+        "races": 146,
+        "avgFinish": 0.5624327323808838
+    },
+    "Carlos Pace": {
+        "rating": 1262.844893047755,
+        "races": 72,
+        "avgFinish": 0.39119871713158566
+    },
+    "Wilson Fittipaldi": {
+        "rating": 737.3602044277906,
+        "races": 36,
+        "avgFinish": 0.3038711045786926
+    },
+    "Patrick Depailler": {
+        "rating": 464.2143733548968,
+        "races": 95,
+        "avgFinish": 0.4825794368876232
+    },
+    "Arturo Merzario": {
+        "rating": 61.13064343937176,
+        "races": 57,
+        "avgFinish": 0.21661987833070545
+    },
+    "Francois  Migault": {
+        "rating": 1001.5081816238381,
+        "races": 13,
+        "avgFinish": 0.16555685055685057
+    },
+    "Jody Scheckter": {
+        "rating": 1359.4283266474724,
+        "races": 112,
+        "avgFinish": 0.5843432604353163
+    },
+    "Luiz  Bueno ": {
+        "rating": 1045.0,
+        "races": 1,
+        "avgFinish": 0.45
+    },
+    "George  Follmer ": {
+        "rating": 918.2803530665334,
+        "races": 11,
+        "avgFinish": 0.3650479362534698
+    },
+    "Eddie  Keizan": {
+        "rating": 1079.4814814814813,
+        "races": 3,
+        "avgFinish": 0.371358024691358
+    },
+    "James Hunt": {
+        "rating": 442.4992690326321,
+        "races": 91,
+        "avgFinish": 0.4609622296268254
+    },
+    "David Purley": {
+        "rating": 1096.4596787270698,
+        "races": 7,
+        "avgFinish": 0.30800438691743043
+    },
+    "Rikky von Opel": {
+        "rating": 1008.1083457519015,
+        "races": 10,
+        "avgFinish": 0.26206760630673676
+    },
+    "John Watson": {
+        "rating": 1795.470180929028,
+        "races": 152,
+        "avgFinish": 0.47091929943622535
+    },
+    "Graham  McRae ": {
+        "rating": 1003.5714285714286,
+        "races": 1,
+        "avgFinish": 0.03571428571428571
+    },
+    "Jochen Mass": {
+        "rating": 1651.1230813655086,
+        "races": 107,
+        "avgFinish": 0.45093070852118916
+    },
+    "Roger  Williamson ": {
+        "rating": 1004.3478260869565,
+        "races": 2,
+        "avgFinish": 0.039596273291925464
+    },
+    "Guy Edwards": {
+        "rating": 971.1839421894978,
+        "races": 11,
+        "avgFinish": 0.3892673824492006
+    },
+    "Richard   Robarts": {
+        "rating": 1060.7407407407406,
+        "races": 3,
+        "avgFinish": 0.2958024691358025
+    },
+    "Hans-Joachim Stuck": {
+        "rating": 959.8017247556378,
+        "races": 78,
+        "avgFinish": 0.2716806864632953
+    },
+    "Vittorio Brambilla": {
+        "rating": 840.4016793985061,
+        "races": 74,
+        "avgFinish": 0.35087640439589474
+    },
+    "Ian Scheckter": {
+        "rating": 906.4980129267976,
+        "races": 18,
+        "avgFinish": 0.1615549368327146
+    },
+    "Paddy Driver": {
+        "rating": 1003.7037037037037,
+        "races": 1,
+        "avgFinish": 0.037037037037037035
+    },
+    "Tom  Belso": {
+        "rating": 1073.076923076923,
+        "races": 2,
+        "avgFinish": 0.3839031339031339
+    },
+    "Vern Schuppan": {
+        "rating": 1059.7608058608057,
+        "races": 9,
+        "avgFinish": 0.2765242165242165
+    },
+    "Teddy Pilette": {
+        "rating": 1046.6666666666667,
+        "races": 1,
+        "avgFinish": 0.4666666666666667
+    },
+    "Tom Pryce": {
+        "rating": 1362.0595540368256,
+        "races": 42,
+        "avgFinish": 0.41385743349511467
+    },
+    "Gerard  Larrousse ": {
+        "rating": 1003.3333333333334,
+        "races": 1,
+        "avgFinish": 0.03333333333333333
+    },
+    "Leo  Kinnunen ": {
+        "rating": 1003.8461538461538,
+        "races": 1,
+        "avgFinish": 0.038461538461538464
+    },
+    "Bertil  Roos ": {
+        "rating": 1003.8461538461538,
+        "races": 1,
+        "avgFinish": 0.038461538461538464
+    },
+    "Ian Ashley": {
+        "rating": 1000.4918414918415,
+        "races": 4,
+        "avgFinish": 0.2425174825174825
+    },
+    "Jacques Laffite": {
+        "rating": 1867.2657847728317,
+        "races": 175,
+        "avgFinish": 0.44827886843965203
+    },
+    "Dieter  Quester ": {
+        "rating": 1068.0,
+        "races": 1,
+        "avgFinish": 0.68
+    },
+    "Helmuth  Koinigg ": {
+        "rating": 1003.7037037037038,
+        "races": 2,
+        "avgFinish": 0.3454415954415955
+    },
+    "Mike Wilds": {
+        "rating": 1004.7687015078319,
+        "races": 3,
+        "avgFinish": 0.04198994778704923
+    },
+    "Jose  Dolhem ": {
+        "rating": 1003.7037037037037,
+        "races": 1,
+        "avgFinish": 0.037037037037037035
+    },
+    "Guy   Tunmer": {
+        "rating": 1062.962962962963,
+        "races": 1,
+        "avgFinish": 0.6296296296296297
+    },
+    "Bob Evans": {
+        "rating": 970.4051762537871,
+        "races": 10,
+        "avgFinish": 0.2883660968660968
+    },
+    "Lella Lombardi": {
+        "rating": 1087.1592940916173,
+        "races": 12,
+        "avgFinish": 0.3230106621773288
+    },
+    "Tony Brise": {
+        "rating": 917.4119889369889,
+        "races": 10,
+        "avgFinish": 0.4168018648018649
+    },
+    "Roelof   Wunderink": {
+        "rating": 1004.4685314685314,
+        "races": 3,
+        "avgFinish": 0.04130536130536131
+    },
+    "Alan  Jones": {
+        "rating": 1373.9686161402537,
+        "races": 116,
+        "avgFinish": 0.4793054288156522
+    },
+    "Torsten   Palm": {
+        "rating": 1065.3846153846155,
+        "races": 1,
+        "avgFinish": 0.6538461538461539
+    },
+    "Damien Magee": {
+        "rating": 1050.0,
+        "races": 1,
+        "avgFinish": 0.5
+    },
+    "Jean-Pierre Jabouille": {
+        "rating": 957.6118181562751,
+        "races": 50,
+        "avgFinish": 0.17782514560790424
+    },
+    "Brian Henton": {
+        "rating": 1118.1292580280112,
+        "races": 19,
+        "avgFinish": 0.35860753281805907
+    },
+    "John  Nicholson ": {
+        "rating": 1038.4615384615386,
+        "races": 1,
+        "avgFinish": 0.38461538461538464
+    },
+    "Dave  Morgan": {
+        "rating": 1034.6153846153845,
+        "races": 1,
+        "avgFinish": 0.34615384615384615
+    },
+    "Jim Crawford": {
+        "rating": 1053.8461538461538,
+        "races": 2,
+        "avgFinish": 0.28846153846153844
+    },
+    "Harald Ertl": {
+        "rating": 974.7280032811371,
+        "races": 20,
+        "avgFinish": 0.3504992877492877
+    },
+    "Brett Lunger": {
+        "rating": 1060.649510558896,
+        "races": 34,
+        "avgFinish": 0.4122170090968043
+    },
+    "Jo  Vonlanthen ": {
+        "rating": 1003.8461538461538,
+        "races": 1,
+        "avgFinish": 0.038461538461538464
+    },
+    "Renzo Zorzi": {
+        "rating": 939.4430171277999,
+        "races": 7,
+        "avgFinish": 0.2985271974402409
+    },
+    "Michel Leclere": {
+        "rating": 1087.151184926185,
+        "races": 7,
+        "avgFinish": 0.4142651792651793
+    },
+    "Ingo Hoffman": {
+        "rating": 1047.9545454545455,
+        "races": 3,
+        "avgFinish": 0.4409090909090909
+    },
+    "Gunnar Nilsson": {
+        "rating": 1166.4582457456586,
+        "races": 31,
+        "avgFinish": 0.3598260884095385
+    },
+    "Larry Perkins": {
+        "rating": 947.2087036956602,
+        "races": 11,
+        "avgFinish": 0.2519664261956752
+    },
+    "Loris Kessel": {
+        "rating": 977.0769230769231,
+        "races": 3,
+        "avgFinish": 0.21846153846153846
+    },
+    "Patrick Neve": {
+        "rating": 1120.0917079319856,
+        "races": 10,
+        "avgFinish": 0.45033190883190877
+    },
+    "Alessandro Pesenti-Rossi": {
+        "rating": 1039.6153846153845,
+        "races": 3,
+        "avgFinish": 0.4820512820512821
+    },
+    "Hans Binder": {
+        "rating": 1164.5272834836076,
+        "races": 13,
+        "avgFinish": 0.3084114102174303
+    },
+    "Boy Hayje": {
+        "rating": 1046.4046822742475,
+        "races": 3,
+        "avgFinish": 0.18115942028985507
+    },
+    "Conny Andersson": {
+        "rating": 1003.8461538461538,
+        "races": 1,
+        "avgFinish": 0.038461538461538464
+    },
+    "Alex Ribeiro": {
+        "rating": 1112.3795799611016,
+        "races": 10,
+        "avgFinish": 0.37999726360595926
+    },
+    "Warwick Brown": {
+        "rating": 1050.0,
+        "races": 1,
+        "avgFinish": 0.5
+    },
+    "Noritake Takahara": {
+        "rating": 1004.3478260869565,
+        "races": 2,
+        "avgFinish": 0.3617391304347826
+    },
+    "Masahiro Hasemi": {
+        "rating": 1060.0,
+        "races": 1,
+        "avgFinish": 0.6
+    },
+    "Kazuyoshi Hoshino": {
+        "rating": 1056.5217391304348,
+        "races": 2,
+        "avgFinish": 0.3026086956521739
+    },
+    "Emilio de Villota": {
+        "rating": 1038.4615384615386,
+        "races": 2,
+        "avgFinish": 0.4423076923076923
+    },
+    "Rupert Keegan": {
+        "rating": 1052.816558212663,
+        "races": 29,
+        "avgFinish": 0.2718931522082532
+    },
+    "Riccardo Patrese": {
+        "rating": 2531.446049201496,
+        "races": 255,
+        "avgFinish": 0.4048138735338519
+    },
+    "Gilles Villeneuve": {
+        "rating": 959.8102264712683,
+        "races": 67,
+        "avgFinish": 0.4919650668897686
+    },
+    "Patrick Tambay": {
+        "rating": 1043.8315589254714,
+        "races": 111,
+        "avgFinish": 0.42325637122738574
+    },
+    "Hector Rebaque": {
+        "rating": 1158.7612924687805,
+        "races": 41,
+        "avgFinish": 0.30264416691264234
+    },
+    "Hans Heyer": {
+        "rating": 1004.0,
+        "races": 1,
+        "avgFinish": 0.04
+    },
+    "Bruno Giacomelli": {
+        "rating": 1211.2853195218643,
+        "races": 69,
+        "avgFinish": 0.2931121439156554
+    },
+    "Danny Ongais": {
+        "rating": 1016.405982905983,
+        "races": 4,
+        "avgFinish": 0.22044871794871793
+    },
+    "Kunimitsu Takahashi": {
+        "rating": 1065.2173913043478,
+        "races": 1,
+        "avgFinish": 0.6521739130434783
+    },
+    "Didier Pironi": {
+        "rating": 1245.4392232211833,
+        "races": 70,
+        "avgFinish": 0.5109888591256123
+    },
+    "Lamberto Leoni": {
+        "rating": 1003.3333333333333,
+        "races": 3,
+        "avgFinish": 0.03888888888888889
+    },
+    "Keke Rosberg": {
+        "rating": 2054.687123974628,
+        "races": 114,
+        "avgFinish": 0.4360146839542998
+    },
+    "Eddie  Cheever": {
+        "rating": 1956.063337287527,
+        "races": 135,
+        "avgFinish": 0.3166657141021625
+    },
+    "Rene Arnoux": {
+        "rating": 1221.4641340306268,
+        "races": 150,
+        "avgFinish": 0.4359555793975586
+    },
+    "Derek Daly": {
+        "rating": 1213.7664655684544,
+        "races": 49,
+        "avgFinish": 0.38894857785733783
+    },
+    "Nelson Piquet": {
+        "rating": 2053.111078886111,
+        "races": 229,
+        "avgFinish": 0.5263556148328516
+    },
+    "Bobby Rahal": {
+        "rating": 1004.5454545454545,
+        "races": 2,
+        "avgFinish": 0.31118881118881114
+    },
+    "Michael Bleekemolen": {
+        "rating": 1003.8461538461538,
+        "races": 1,
+        "avgFinish": 0.038461538461538464
+    },
+    "Elio de Angelis": {
+        "rating": 1418.9468780133047,
+        "races": 105,
+        "avgFinish": 0.47029138014652433
+    },
+    "Jan Lammers": {
+        "rating": 973.832258456694,
+        "races": 30,
+        "avgFinish": 0.2402727198671726
+    },
+    "Patrick Gaillard": {
+        "rating": 1004.1666666666666,
+        "races": 2,
+        "avgFinish": 0.2708333333333333
+    },
+    "Geoff Lees": {
+        "rating": 896.7371390544625,
+        "races": 9,
+        "avgFinish": 0.23534681580658592
+    },
+    "Ricardo Zunino": {
+        "rating": 924.8411123708742,
+        "races": 11,
+        "avgFinish": 0.37806637806637816
+    },
+    "Marc Surer": {
+        "rating": 1333.5944740110535,
+        "races": 79,
+        "avgFinish": 0.444760439176206
+    },
+    "Alain Prost": {
+        "rating": 3146.2126053207376,
+        "races": 198,
+        "avgFinish": 0.6728339027107445
+    },
+    "Dave Kennedy": {
+        "rating": 1003.8822751322751,
+        "races": 6,
+        "avgFinish": 0.036375661375661374
+    },
+    "Stefan Johansson": {
+        "rating": 1289.672154174722,
+        "races": 78,
+        "avgFinish": 0.46645451672486243
+    },
+    "Tiff Needell": {
+        "rating": 1003.7037037037037,
+        "races": 2,
+        "avgFinish": 0.037037037037037035
+    },
+    "Nigel Mansell": {
+        "rating": 2775.928735782663,
+        "races": 184,
+        "avgFinish": 0.4890939421794034
+    },
+    "Mike Thackwell": {
+        "rating": 1004.5516504568228,
+        "races": 4,
+        "avgFinish": 0.03906940760389036
+    },
+    "Manfred Winkelhock": {
+        "rating": 904.7120787695284,
+        "races": 46,
+        "avgFinish": 0.20986499016981053
+    },
+    "Andrea de Cesaris": {
+        "rating": 1337.4062672961427,
+        "races": 201,
+        "avgFinish": 0.27666042968335847
+    },
+    "Chico Serra": {
+        "rating": 1134.7105092358208,
+        "races": 18,
+        "avgFinish": 0.41406695156695156
+    },
+    "Beppe Gabbiani": {
+        "rating": 1004.1666666666666,
+        "races": 3,
+        "avgFinish": 0.041666666666666664
+    },
+    "Siegfried Stohr": {
+        "rating": 1066.8373015873015,
+        "races": 9,
+        "avgFinish": 0.24629629629629632
+    },
+    "Slim Borgudd": {
+        "rating": 1028.0301180301183,
+        "races": 10,
+        "avgFinish": 0.3929487179487179
+    },
+    "Eliseo Salazar": {
+        "rating": 1099.169940076861,
+        "races": 24,
+        "avgFinish": 0.22741522668153094
+    },
+    "Michele Alboreto": {
+        "rating": 809.2978462412404,
+        "races": 190,
+        "avgFinish": 0.41012676460330943
+    },
+    "Miguel Angel Guerra": {
+        "rating": 1004.1666666666666,
+        "races": 1,
+        "avgFinish": 0.041666666666666664
+    },
+    "Piercarlo Ghinzani": {
+        "rating": 911.8294123328462,
+        "races": 73,
+        "avgFinish": 0.19380602885963205
+    },
+    "Derek Warwick": {
+        "rating": 1929.2275954544064,
+        "races": 144,
+        "avgFinish": 0.3603024940147528
+    },
+    "Raul Boesel": {
+        "rating": 981.5285859424198,
+        "races": 23,
+        "avgFinish": 0.28786211687913
+    },
+    "Mauro Baldi": {
+        "rating": 844.7181933531091,
+        "races": 36,
+        "avgFinish": 0.34191961263821147
+    },
+    "Roberto Guerrero": {
+        "rating": 1148.61811869977,
+        "races": 20,
+        "avgFinish": 0.16989269788182834
+    },
+    "Teo Fabi": {
+        "rating": 1493.9368189049733,
+        "races": 64,
+        "avgFinish": 0.24476577531265026
+    },
+    "Riccardo Paletti": {
+        "rating": 1003.8461538461539,
+        "races": 2,
+        "avgFinish": 0.057692307692307696
+    },
+    "Tommy Byrne": {
+        "rating": 1004.1666666666666,
+        "races": 2,
+        "avgFinish": 0.04006410256410256
+    },
+    "Danny Sullivan": {
+        "rating": 946.784809018142,
+        "races": 13,
+        "avgFinish": 0.3606870479947403
+    },
+    "Johnny Cecotto": {
+        "rating": 787.6835137232312,
+        "races": 18,
+        "avgFinish": 0.270860767654246
+    },
+    "Corrado Fabi": {
+        "rating": 1114.7886694022563,
+        "races": 12,
+        "avgFinish": 0.1943768580453363
+    },
+    "Thierry Boutsen": {
+        "rating": 1199.0119921935811,
+        "races": 160,
+        "avgFinish": 0.46177282691141375
+    },
+    "Jonathan  Palmer": {
+        "rating": 1332.9756391587048,
+        "races": 83,
+        "avgFinish": 0.3691982386586894
+    },
+    "Kenny Acheson": {
+        "rating": 977.8461538461538,
+        "races": 3,
+        "avgFinish": 0.21282051282051284
+    },
+    "Francois Hesnault": {
+        "rating": 1030.2410035035712,
+        "races": 17,
+        "avgFinish": 0.22749254558078086
+    },
+    "Philippe Alliot": {
+        "rating": 1782.203014425629,
+        "races": 105,
+        "avgFinish": 0.28588552709463694
+    },
+    "Ayrton Senna": {
+        "rating": 2249.7397333089993,
+        "races": 155,
+        "avgFinish": 0.6522686167658109
+    },
+    "Jo Gartner": {
+        "rating": 1114.888455988456,
+        "races": 7,
+        "avgFinish": 0.2882168625025768
+    },
+    "Huub Rothengatter": {
+        "rating": 1021.3503155654389,
+        "races": 26,
+        "avgFinish": 0.18839195271469514
+    },
+    "Gerhard Berger": {
+        "rating": 1870.531796887511,
+        "races": 206,
+        "avgFinish": 0.5126258946645075
+    },
+    "Philippe Streiff": {
+        "rating": 913.4725266689776,
+        "races": 52,
+        "avgFinish": 0.4119933058394597
+    },
+    "Martin Brundle": {
+        "rating": 1213.5805087759543,
+        "races": 150,
+        "avgFinish": 0.42818666521771026
+    },
+    "Pierluigi Martini": {
+        "rating": 1872.6599057613182,
+        "races": 114,
+        "avgFinish": 0.34351946920215426
+    },
+    "Stefan Bellof": {
+        "rating": 1033.7316595441596,
+        "races": 9,
+        "avgFinish": 0.5559939854384299
+    },
+    "Christian Danner": {
+        "rating": 1454.0603806541044,
+        "races": 34,
+        "avgFinish": 0.32475688255100016
+    },
+    "Ivan Capelli": {
+        "rating": 797.1268620864396,
+        "races": 91,
+        "avgFinish": 0.25570424673625836
+    },
+    "Johnny Dumfries": {
+        "rating": 1065.2720321776558,
+        "races": 15,
+        "avgFinish": 0.32587611154277824
+    },
+    "Alessandro Nannini": {
+        "rating": 2330.1484911694088,
+        "races": 76,
+        "avgFinish": 0.3370906662411238
+    },
+    "Allen Berg": {
+        "rating": 1065.614733414733,
+        "races": 8,
+        "avgFinish": 0.2157905982905983
+    },
+    "Alex Caffi": {
+        "rating": 1524.6696690795159,
+        "races": 54,
+        "avgFinish": 0.3507432647569522
+    },
+    "Satoru Nakajima": {
+        "rating": 390.2382216453891,
+        "races": 72,
+        "avgFinish": 0.361022776539081
+    },
+    "Pascal Fabre": {
+        "rating": 943.9125763125764,
+        "races": 11,
+        "avgFinish": 0.4345571095571095
+    },
+    "Adrian Campos": {
+        "rating": 1068.2337589728322,
+        "races": 17,
+        "avgFinish": 0.08802824626354037
+    },
+    "Gabriele Tarquini": {
+        "rating": 1001.3722683237011,
+        "races": 35,
+        "avgFinish": 0.25480719901216786
+    },
+    "Franco Forini": {
+        "rating": 1004.0,
+        "races": 2,
+        "avgFinish": 0.039230769230769236
+    },
+    "Nicola Larini": {
+        "rating": 1566.0903253314993,
+        "races": 47,
+        "avgFinish": 0.3500722388927755
+    },
+    "Yannick Dalmas": {
+        "rating": 765.7033043620809,
+        "races": 23,
+        "avgFinish": 0.401439096505259
+    },
+    "Roberto Moreno": {
+        "rating": 880.7766378145196,
+        "races": 40,
+        "avgFinish": 0.30561846848803353
+    },
+    "Stefano Modena": {
+        "rating": 1260.6910695605573,
+        "races": 67,
+        "avgFinish": 0.30796969091907456
+    },
+    "Luis Perez-Sala": {
+        "rating": 1066.489810803806,
+        "races": 23,
+        "avgFinish": 0.31139664997888067
+    },
+    "Mauricio Gugelmin": {
+        "rating": 926.4658863065365,
+        "races": 71,
+        "avgFinish": 0.3162493517912991
+    },
+    "Julian Bailey": {
+        "rating": 1134.8153846153848,
+        "races": 6,
+        "avgFinish": 0.5001495726495727
+    },
+    "Oscar Larrauri": {
+        "rating": 1013.6623188405796,
+        "races": 7,
+        "avgFinish": 0.16335403726708075
+    },
+    "Bernd Schneider": {
+        "rating": 1050.452378961618,
+        "races": 9,
+        "avgFinish": 0.2128793509228292
+    },
+    "Jean Louis Schlesser": {
+        "rating": 1061.5384615384614,
+        "races": 1,
+        "avgFinish": 0.6153846153846154
+    },
+    "Aguri Suzuki": {
+        "rating": 1154.8636780328384,
+        "races": 62,
+        "avgFinish": 0.29586070077654925
+    },
+    "Johnny Herbert": {
+        "rating": 986.7641191128855,
+        "races": 158,
+        "avgFinish": 0.4203136982728129
+    },
+    "Olivier Grouillard": {
+        "rating": 739.2581845392018,
+        "races": 39,
+        "avgFinish": 0.23966342093432388
+    },
+    "Pierre Henri Raphanel": {
+        "rating": 1003.8461538461538,
+        "races": 1,
+        "avgFinish": 0.038461538461538464
+    },
+    "Jean Alesi": {
+        "rating": 781.5451118596465,
+        "races": 200,
+        "avgFinish": 0.47459656003723194
+    },
+    "Emanuele Pirro": {
+        "rating": 983.7319334351877,
+        "races": 33,
+        "avgFinish": 0.3558811434503134
+    },
+    "Eric Bernard": {
+        "rating": 972.7577392861907,
+        "races": 44,
+        "avgFinish": 0.35553556621244364
+    },
+    "Martin Donnelly": {
+        "rating": 980.6900753634449,
+        "races": 13,
+        "avgFinish": 0.3199626961667096
+    },
+    "Bertrand Gachot": {
+        "rating": 622.6638807168988,
+        "races": 44,
+        "avgFinish": 0.24255162985894183
+    },
+    "Jyrki Jarvilehto": {
+        "rating": 1604.8594048671278,
+        "races": 60,
+        "avgFinish": 0.34357269542052143
+    },
+    "Paolo Barilla": {
+        "rating": 1121.3104886659235,
+        "races": 7,
+        "avgFinish": 0.3154889313584966
+    },
+    "Gregor Foitek": {
+        "rating": 1066.710089186176,
+        "races": 7,
+        "avgFinish": 0.20264214046822743
+    },
+    "Gianni Morbidelli": {
+        "rating": 1302.518506268414,
+        "races": 67,
+        "avgFinish": 0.3344882394265912
+    },
+    "David Brabham": {
+        "rating": 1112.0760715088882,
+        "races": 24,
+        "avgFinish": 0.18553849532110392
+    },
+    "Mika Hakkinen": {
+        "rating": 2662.2694101202824,
+        "races": 160,
+        "avgFinish": 0.5600507404536841
+    },
+    "Mark Blundell": {
+        "rating": 1536.9224680536145,
+        "races": 60,
+        "avgFinish": 0.39759735916257666
+    },
+    "Erik Comas": {
+        "rating": 973.3163567931964,
+        "races": 56,
+        "avgFinish": 0.39874271561771557
+    },
+    "Eric van de Poele": {
+        "rating": 1018.9491064491065,
+        "races": 4,
+        "avgFinish": 0.4688956876456876
+    },
+    "Michael Schumacher": {
+        "rating": 1122.1748807862164,
+        "races": 304,
+        "avgFinish": 0.7076805135503408
+    },
+    "Alessandro Zanardi": {
+        "rating": 830.6880010560674,
+        "races": 41,
+        "avgFinish": 0.29319147448521776
+    },
+    "Karl Wendlinger": {
+        "rating": 1254.686247458477,
+        "races": 38,
+        "avgFinish": 0.332740769908962
+    },
+    "Ukyo Katayama": {
+        "rating": 877.3868594592616,
+        "races": 93,
+        "avgFinish": 0.2264728145635358
+    },
+    "Christian Fittipaldi": {
+        "rating": 1330.4276560772253,
+        "races": 39,
+        "avgFinish": 0.46679770990807756
+    },
+    "Andrea Chiesa": {
+        "rating": 1003.8461538461538,
+        "races": 2,
+        "avgFinish": 0.04096989966555184
+    },
+    "Paul Belmondo": {
+        "rating": 962.7778166278166,
+        "races": 7,
+        "avgFinish": 0.4071911421911421
+    },
+    "Damon Hill": {
+        "rating": 401.2683894423247,
+        "races": 115,
+        "avgFinish": 0.5788410219767295
+    },
+    "Emanuele Naspetti": {
+        "rating": 979.625910442215,
+        "races": 6,
+        "avgFinish": 0.30290876997398736
+    },
+    "Rubens Barrichello": {
+        "rating": 3291.7674311876644,
+        "races": 320,
+        "avgFinish": 0.5306911919332482
+    },
+    "Fabrizio Barbazza": {
+        "rating": 1009.76231884058,
+        "races": 7,
+        "avgFinish": 0.3321739130434783
+    },
+    "Luca Badoer": {
+        "rating": 985.978036343914,
+        "races": 51,
+        "avgFinish": 0.2837214249234708
+    },
+    "Michael Andretti": {
+        "rating": 1169.298435702783,
+        "races": 10,
+        "avgFinish": 0.46165734989648033
+    },
+    "Pedro Lamy": {
+        "rating": 837.0590129848193,
+        "races": 30,
+        "avgFinish": 0.3663388668709036
+    },
+    "Eddie Irvine": {
+        "rating": 1599.8673540669984,
+        "races": 146,
+        "avgFinish": 0.4727563924760724
+    },
+    "Toshio  Suzuki": {
+        "rating": 1043.4782608695652,
+        "races": 2,
+        "avgFinish": 0.4782608695652174
+    },
+    "Jean-Marc Gounon": {
+        "rating": 1073.8211100493706,
+        "races": 9,
+        "avgFinish": 0.2594054254923821
+    },
+    "Olivier Panis": {
+        "rating": -282.240786880571,
+        "races": 155,
+        "avgFinish": 0.4267058058184421
+    },
+    "Jos Verstappen": {
+        "rating": 1274.6436120560168,
+        "races": 107,
+        "avgFinish": 0.276061793528302
+    },
+    "Heinz-Harald Frentzen": {
+        "rating": 1064.6588657368393,
+        "races": 156,
+        "avgFinish": 0.47556495695340917
+    },
+    "Olivier Beretta": {
+        "rating": 1168.113939100352,
+        "races": 10,
+        "avgFinish": 0.28871962095875137
+    },
+    "Roland Ratzenberger": {
+        "rating": 1061.5384615384614,
+        "races": 1,
+        "avgFinish": 0.6153846153846154
+    },
+    "David Coulthard": {
+        "rating": 769.1044863946993,
+        "races": 246,
+        "avgFinish": 0.5421938414347897
+    },
+    "Philippe Adams": {
+        "rating": 1040.0,
+        "races": 2,
+        "avgFinish": 0.22
+    },
+    "Domenico Schiattarella": {
+        "rating": 1022.9836829836829,
+        "races": 7,
+        "avgFinish": 0.22277722277722276
+    },
+    "Hideki Noda": {
+        "rating": 1003.8461538461538,
+        "races": 3,
+        "avgFinish": 0.038461538461538464
+    },
+    "Mika Salo": {
+        "rating": 1067.3006596450246,
+        "races": 107,
+        "avgFinish": 0.40509436011211086
+    },
+    "Franck Lagorce": {
+        "rating": 1061.5384615384614,
+        "races": 2,
+        "avgFinish": 0.3269230769230769
+    },
+    "Taki Inoue": {
+        "rating": 1146.7749300094724,
+        "races": 18,
+        "avgFinish": 0.1837093059919147
+    },
+    "Jean-Denis Deletraz": {
+        "rating": 1042.0163170163169,
+        "races": 3,
+        "avgFinish": 0.16686091686091686
+    },
+    "Andrea Montermini": {
+        "rating": 914.6279289973157,
+        "races": 20,
+        "avgFinish": 0.1607497574888879
+    },
+    "Pedro Diniz": {
+        "rating": 989.8567775094427,
+        "races": 98,
+        "avgFinish": 0.2771116631335894
+    },
+    "Jean-Christophe Boullion": {
+        "rating": 1011.069913882414,
+        "races": 11,
+        "avgFinish": 0.4434996821360459
+    },
+    "Massimiliano Papis": {
+        "rating": 1109.0151515151515,
+        "races": 6,
+        "avgFinish": 0.23926767676767677
+    },
+    "Giovanni Lavaggi": {
+        "rating": 1063.0340909090908,
+        "races": 7,
+        "avgFinish": 0.15292207792207793
+    },
+    "Jan Magnussen": {
+        "rating": 919.0004731302221,
+        "races": 24,
+        "avgFinish": 0.25097853535353537
+    },
+    "Jacques Villeneuve": {
+        "rating": -537.3797606203156,
+        "races": 164,
+        "avgFinish": 0.4842301124752233
+    },
+    "Ricardo Rosset": {
+        "rating": 1032.0885250091821,
+        "races": 26,
+        "avgFinish": 0.25829448329448335
+    },
+    "Giancarlo Fisichella": {
+        "rating": 1518.2776444394833,
+        "races": 229,
+        "avgFinish": 0.47710848799797195
+    },
+    "Tarso Marques": {
+        "rating": 1073.86388991574,
+        "races": 23,
+        "avgFinish": 0.22265973583109136
+    },
+    "Shinji Nakano": {
+        "rating": 994.6047370979085,
+        "races": 33,
+        "avgFinish": 0.32535965717783893
+    },
+    "Jarno Trulli": {
+        "rating": 1314.8581044077214,
+        "races": 255,
+        "avgFinish": 0.42191060026219174
+    },
+    "Ralf Schumacher": {
+        "rating": 1940.1799445007125,
+        "races": 179,
+        "avgFinish": 0.5248676217076521
+    },
+    "Alexander Wurz": {
+        "rating": 1058.077828349883,
+        "races": 68,
+        "avgFinish": 0.4766822358927621
+    },
+    "Norberto Fontana": {
+        "rating": 1088.997113997114,
+        "races": 4,
+        "avgFinish": 0.4274891774891775
+    },
+    "Esteban Tuero": {
+        "rating": 1025.5635027550613,
+        "races": 16,
+        "avgFinish": 0.15065836940836938
+    },
+    "Toranosuke Takagi": {
+        "rating": 963.3347190734421,
+        "races": 31,
+        "avgFinish": 0.2217334636689477
+    },
+    "Pedro de la Rosa": {
+        "rating": 1257.5856679533822,
+        "races": 105,
+        "avgFinish": 0.28922003944771885
+    },
+    "Ricardo Zonta": {
+        "rating": 1211.516846866625,
+        "races": 37,
+        "avgFinish": 0.32249173301804895
+    },
+    "Marc Gene": {
+        "rating": 1096.0217236640894,
+        "races": 36,
+        "avgFinish": 0.3505240373661426
+    },
+    "Stephane Sarrazin": {
+        "rating": 1004.7619047619048,
+        "races": 1,
+        "avgFinish": 0.047619047619047616
+    },
+    "Nick Heidfeld": {
+        "rating": 2483.649797366153,
+        "races": 183,
+        "avgFinish": 0.4995964263506558
+    },
+    "Jenson Button": {
+        "rating": 2217.621017086299,
+        "races": 307,
+        "avgFinish": 0.564357544227336
+    },
+    "Gaston Mazzacane": {
+        "rating": 987.844093340661,
+        "races": 21,
+        "avgFinish": 0.3080970825331728
+    },
+    "Luciano Burti": {
+        "rating": 901.3088042308822,
+        "races": 14,
+        "avgFinish": 0.38821892393320967
+    },
+    "Kimi R\u00c3\u00a4ikk\u00c3\u00b6nen": {
+        "rating": 1747.9010901739898,
+        "races": 351,
+        "avgFinish": 0.614563853116972
+    },
+    "Fernando Alonso": {
+        "rating": 1052.5178209367211,
+        "races": 377,
+        "avgFinish": 0.6230620527363607
+    },
+    "Juan Pablo Montoya": {
+        "rating": 1892.7411965257209,
+        "races": 92,
+        "avgFinish": 0.5823623860472693
+    },
+    "Enrique Bernoldi": {
+        "rating": 1075.1828481772825,
+        "races": 27,
+        "avgFinish": 0.2010709334238746
+    },
+    "Tomas Enge": {
+        "rating": 1000.0000000000001,
+        "races": 3,
+        "avgFinish": 0.3181818181818182
+    },
+    "Alex Yoong": {
+        "rating": 1053.990626731057,
+        "races": 14,
+        "avgFinish": 0.22739234449760765
+    },
+    "Mark Webber": {
+        "rating": 3548.8345652523553,
+        "races": 216,
+        "avgFinish": 0.5572427730151639
+    },
+    "Takuma Sato": {
+        "rating": 959.2608204384715,
+        "races": 88,
+        "avgFinish": 0.3549663479463123
+    },
+    "Felipe Massa": {
+        "rating": 2278.065238566417,
+        "races": 269,
+        "avgFinish": 0.6090050033872931
+    },
+    "Allan McNish": {
+        "rating": 1035.7745884340216,
+        "races": 16,
+        "avgFinish": 0.28285201640464797
+    },
+    "Anthony Davidson": {
+        "rating": 1093.968141280514,
+        "races": 24,
+        "avgFinish": 0.2488546176046176
+    },
+    "Antonio Pizzonia": {
+        "rating": 1123.3509192374174,
+        "races": 20,
+        "avgFinish": 0.3452631578947369
+    },
+    "Justin Wilson": {
+        "rating": 1125.7669720630247,
+        "races": 16,
+        "avgFinish": 0.2126644736842105
+    },
+    "Cristiano da Matta": {
+        "rating": 1003.9452943315146,
+        "races": 27,
+        "avgFinish": 0.425243664717349
+    },
+    "Ralph Firman": {
+        "rating": 1051.4703483650853,
+        "races": 14,
+        "avgFinish": 0.2836466165413533
+    },
+    "Nicolas Kiesa": {
+        "rating": 1029.1666666666667,
+        "races": 5,
+        "avgFinish": 0.41
+    },
+    "Zsolt Baumgartner": {
+        "rating": 1043.1613298532368,
+        "races": 20,
+        "avgFinish": 0.238453947368421
+    },
+    "Christian Klien": {
+        "rating": 941.0699065805219,
+        "races": 51,
+        "avgFinish": 0.3605945568019871
+    },
+    "Giorgio Pantano": {
+        "rating": 921.0292740884846,
+        "races": 14,
+        "avgFinish": 0.16447368421052627
+    },
+    "Gianmaria Bruni": {
+        "rating": 1024.4190479874017,
+        "races": 18,
+        "avgFinish": 0.15361842105263154
+    },
+    "Timo Glock": {
+        "rating": 375.87936908554855,
+        "races": 93,
+        "avgFinish": 0.35745259063336904
+    },
+    "Narain Karthikeyan": {
+        "rating": 776.6393526821903,
+        "races": 46,
+        "avgFinish": 0.20635039078477532
+    },
+    "Tiago Monteiro": {
+        "rating": 871.217077590439,
+        "races": 36,
+        "avgFinish": 0.32862765077677353
+    },
+    "Patrick Friesacher ": {
+        "rating": 1024.7434906711223,
+        "races": 11,
+        "avgFinish": 0.17902711323763956
+    },
+    "Christijan Albers": {
+        "rating": 1038.648783400419,
+        "races": 45,
+        "avgFinish": 0.25152823135279273
+    },
+    "Vitantonio Liuzzi": {
+        "rating": 760.1358471111813,
+        "races": 80,
+        "avgFinish": 0.3126097688225836
+    },
+    "Robert Doornbos": {
+        "rating": 1123.938783195362,
+        "races": 11,
+        "avgFinish": 0.2996841276745583
+    },
+    "Nico Rosberg": {
+        "rating": 3833.0553637443895,
+        "races": 206,
+        "avgFinish": 0.6565918590515689
+    },
+    "Scott Speed": {
+        "rating": 904.6310371855445,
+        "races": 28,
+        "avgFinish": 0.3099103277674707
+    },
+    "Yuji Ide": {
+        "rating": 1031.8181818181818,
+        "races": 4,
+        "avgFinish": 0.1477272727272727
+    },
+    "Franck Montagny": {
+        "rating": 1040.151515151515,
+        "races": 7,
+        "avgFinish": 0.14935064935064934
+    },
+    "Sakon Yamamoto": {
+        "rating": 1146.764602865308,
+        "races": 21,
+        "avgFinish": 0.20002061430632861
+    },
+    "Robert Kubica": {
+        "rating": 252.3722554398443,
+        "races": 98,
+        "avgFinish": 0.5196966209587047
+    },
+    "Lewis Hamilton": {
+        "rating": 1929.8480122994988,
+        "races": 330,
+        "avgFinish": 0.8124869105730343
+    },
+    "Heikki Kovalainen": {
+        "rating": -251.43684157554713,
+        "races": 112,
+        "avgFinish": 0.43604510818265324
+    },
+    "Adrian Sutil": {
+        "rating": 1960.1457992547919,
+        "races": 128,
+        "avgFinish": 0.3436480526806972
+    },
+    "Sebastian Vettel": {
+        "rating": 1981.8893485093747,
+        "races": 300,
+        "avgFinish": 0.6978635147052837
+    },
+    "Markus Winkelhock": {
+        "rating": 1004.5454545454545,
+        "races": 1,
+        "avgFinish": 0.045454545454545456
+    },
+    "Kazuki Nakajima": {
+        "rating": 848.2950758371344,
+        "races": 36,
+        "avgFinish": 0.37927805625174055
+    },
+    "Sebastien Bourdais": {
+        "rating": 1048.7161436955241,
+        "races": 27,
+        "avgFinish": 0.33958633958633977
+    },
+    "Sebastien Buemi": {
+        "rating": 1199.446405008804,
+        "races": 55,
+        "avgFinish": 0.38400615264355653
+    },
+    "Jaime Alguersuari": {
+        "rating": 1462.7094744448464,
+        "races": 46,
+        "avgFinish": 0.422022948116123
+    },
+    "Romain Grosjean": {
+        "rating": 679.9656054104391,
+        "races": 181,
+        "avgFinish": 0.39224767832549445
+    },
+    "Kamui Kobayashi": {
+        "rating": 914.1341749903929,
+        "races": 76,
+        "avgFinish": 0.416454178925575
+    },
+    "Nico Hulkenberg": {
+        "rating": 632.5826155267275,
+        "races": 204,
+        "avgFinish": 0.47234581756155586
+    },
+    "Bruno Senna": {
+        "rating": 1596.6718151424234,
+        "races": 46,
+        "avgFinish": 0.36072922037005223
+    },
+    "Vitaly Petrov": {
+        "rating": 1086.9993763245038,
+        "races": 58,
+        "avgFinish": 0.41553938939621093
+    },
+    "Lucas di Grassi": {
+        "rating": 1057.3584109245876,
+        "races": 19,
+        "avgFinish": 0.18201754385964908
+    },
+    "Karun Chandhok": {
+        "rating": 1041.7691798941803,
+        "races": 11,
+        "avgFinish": 0.27272727272727276
+    },
+    "Sergio Perez": {
+        "rating": 2981.334787921187,
+        "races": 256,
+        "avgFinish": 0.598549947966258
+    },
+    "Paul di Resta": {
+        "rating": 938.4386300899383,
+        "races": 59,
+        "avgFinish": 0.5252355909872494
+    },
+    "Jerome d'Ambrosio": {
+        "rating": 1024.9972134914515,
+        "races": 20,
+        "avgFinish": 0.2566864295125165
+    },
+    "Pastor Maldonado": {
+        "rating": 1168.4878251318,
+        "races": 96,
+        "avgFinish": 0.34293923184493513
+    },
+    "Daniel Ricciardo": {
+        "rating": 2345.9825113943953,
+        "races": 237,
+        "avgFinish": 0.5581834558049901
+    },
+    "Jean-Eric Vergne": {
+        "rating": 897.0356030207812,
+        "races": 58,
+        "avgFinish": 0.40245696956716454
+    },
+    "Charles Pic": {
+        "rating": 1027.2094859232614,
+        "races": 39,
+        "avgFinish": 0.23177004155265019
+    },
+    "Esteban Gutierrez ": {
+        "rating": 903.0960975839017,
+        "races": 59,
+        "avgFinish": 0.32446498887176844
+    },
+    "Valtteri Bottas": {
+        "rating": 1468.8410030831856,
+        "races": 220,
+        "avgFinish": 0.6449054109101964
+    },
+    "Jules Bianchi": {
+        "rating": 979.3496990757747,
+        "races": 34,
+        "avgFinish": 0.2486631016042781
+    },
+    "Max Chilton": {
+        "rating": 998.5201492802843,
+        "races": 35,
+        "avgFinish": 0.23902288188002463
+    },
+    "Giedo van der Garde": {
+        "rating": 1008.6541147503721,
+        "races": 19,
+        "avgFinish": 0.2200956937799043
+    },
+    "Kevin Magnussen": {
+        "rating": -209.66725520201695,
+        "races": 162,
+        "avgFinish": 0.36603514463851533
+    },
+    "Daniil Kvyat": {
+        "rating": 1045.9898875447225,
+        "races": 112,
+        "avgFinish": 0.4365578647727035
+    },
+    "Marcus Ericsson": {
+        "rating": 1339.954816333818,
+        "races": 97,
+        "avgFinish": 0.29973848563743566
+    },
+    "Andre Lotterer": {
+        "rating": 1004.5454545454545,
+        "races": 1,
+        "avgFinish": 0.045454545454545456
+    },
+    "Will Stevens": {
+        "rating": 1009.5374719235011,
+        "races": 18,
+        "avgFinish": 0.2222222222222222
+    },
+    "Felipe Nasr": {
+        "rating": 705.1290921782686,
+        "races": 40,
+        "avgFinish": 0.36157578103011534
+    },
+    "Carlos Sainz": {
+        "rating": 2731.551000814936,
+        "races": 183,
+        "avgFinish": 0.5547297058285233
+    },
+    "Max Verstappen": {
+        "rating": 3561.1323313852995,
+        "races": 183,
+        "avgFinish": 0.7406396349425334
+    },
+    "Roberto Merhi": {
+        "rating": 1043.0578339788867,
+        "races": 13,
+        "avgFinish": 0.2548582995951416
+    },
+    "Alexander Rossi": {
+        "rating": 1017.0833333333333,
+        "races": 5,
+        "avgFinish": 0.27999999999999997
+    },
+    "Jolyon Palmer": {
+        "rating": 1096.1503857201546,
+        "races": 37,
+        "avgFinish": 0.3100737100737101
+    },
+    "Pascal Wehrlein": {
+        "rating": 1011.8861610249909,
+        "races": 39,
+        "avgFinish": 0.27622377622377614
+    },
+    "Rio Haryanto": {
+        "rating": 1037.3702938475665,
+        "races": 12,
+        "avgFinish": 0.1742424242424242
+    },
+    "Stoffel Vandoorne": {
+        "rating": 1121.8737474500326,
+        "races": 42,
+        "avgFinish": 0.3700216450216451
+    },
+    "Esteban Ocon": {
+        "rating": 1388.7436175532662,
+        "races": 131,
+        "avgFinish": 0.49776471017933466
+    },
+    "Antonio Giovinazzi": {
+        "rating": 1139.164104227705,
+        "races": 62,
+        "avgFinish": 0.3483870967741936
+    },
+    "Lance Stroll": {
+        "rating": 1619.7517641970794,
+        "races": 141,
+        "avgFinish": 0.4276595744680849
+    },
+    "Pierre Gasly": {
+        "rating": 1493.7026857952292,
+        "races": 128,
+        "avgFinish": 0.4956003289473684
+    },
+    "Brendon Hartley": {
+        "rating": 1119.9371811912536,
+        "races": 25,
+        "avgFinish": 0.2779999999999999
+    },
+    "Charles Leclerc": {
+        "rating": 1981.258248553296,
+        "races": 123,
+        "avgFinish": 0.629204107830552
+    },
+    "Sergey Sirotkin": {
+        "rating": 1113.481951098437,
+        "races": 21,
+        "avgFinish": 0.27142857142857146
+    },
+    "Lando Norris": {
+        "rating": 1685.3076414797406,
+        "races": 102,
+        "avgFinish": 0.6132094943240457
+    },
+    "Alexander Albon": {
+        "rating": 685.3310528862028,
+        "races": 79,
+        "avgFinish": 0.48510992671552283
+    },
+    "George Russell": {
+        "rating": 2481.853517819056,
+        "races": 102,
+        "avgFinish": 0.4599071207430339
+    },
+    "Nicholas Latifi": {
+        "rating": 964.1631076114037,
+        "races": 61,
+        "avgFinish": 0.2409836065573771
+    },
+    "Jack Aitken": {
+        "rating": 1025.0,
+        "races": 1,
+        "avgFinish": 0.25
+    },
+    "Pietro Fittipaldi": {
+        "rating": 1010.0,
+        "races": 2,
+        "avgFinish": 0.15000000000000002
+    },
+    "Yuki Tsunoda": {
+        "rating": 900.8346254697875,
+        "races": 64,
+        "avgFinish": 0.3586348684210528
+    },
+    "Mick Schumacher": {
+        "rating": 1183.2707302000151,
+        "races": 44,
+        "avgFinish": 0.26363636363636356
+    },
+    "Nikita Mazepin": {
+        "rating": 1006.2555355935775,
+        "races": 22,
+        "avgFinish": 0.12954545454545452
+    },
+    "Zhou Guanyu": {
+        "rating": 1001.7826257608856,
+        "races": 42,
+        "avgFinish": 0.3326441102756892
+    },
+    "Nyck De Vries": {
+        "rating": 936.468253968254,
+        "races": 11,
+        "avgFinish": 0.2863636363636364
+    },
+    "Logan Sargeant": {
+        "rating": 1013.1310586682615,
+        "races": 20,
+        "avgFinish": 0.2457894736842105
+    },
+    "Oscar Piastri": {
+        "rating": 1236.6402615577804,
+        "races": 20,
+        "avgFinish": 0.48171052631578953
+    },
+    "Liam Lawson": {
+        "rating": 1034.122807017544,
+        "races": 5,
+        "avgFinish": 0.43578947368421056
+    }
+}
