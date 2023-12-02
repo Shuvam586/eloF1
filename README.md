@@ -16,4 +16,4 @@ The original equation multiplies the difference by a factor of 32. 32 is a bit t
 
 `avgFinishCoeff` is given as the mean of `raceFinishCoeffs` from all the races the driver has entered.
 
-I havent figured out how to plot graphs just yet. Also, this is NOT a perfect implementation of the [ELO Rating System](https://en.wikipedia.org/wiki/Elo_rating_system).
+I havent figured out how to plot graphs just yet. Running the engine with parameters from 1950 to 2023 yeilds [these ELOs](/results.txt). This is NOT a perfect implementation of the [ELO Rating System](https://en.wikipedia.org/wiki/Elo_rating_system), since it is highly unlikely for [Jacques Villeneuve](https://www.formula1.com/en/drivers/hall-of-fame/Jacques_Villeneuve.html) to have negative ELO.
